@@ -1,0 +1,3574 @@
+name	highway	maxheight	@lat	@lon
+St. Alban's Place	service	3.2	51.5364063	-0.1042571
+Rotherhithe Tunnel	primary	2	51.5057388	-0.0467097
+Ravensbourne Park	tertiary	4.5	51.4440194	-0.0259965
+Connaught Bridge	primary	"17'0"""	51.5085349	0.0400908
+Edgware Road	primary	4.8	51.5614636	-0.2205409
+Brent Street	primary	none	51.5860852	-0.2199731
+Inner Temple	residential	3.4	51.5125648	-0.1085916
+French Ordinary Court	service	"7'9"""	51.5114992	-0.0786246
+Fitzroy Square	service	none	51.5229538	-0.1400432
+Floral Street	unclassified	default	51.5131559	-0.1230670
+Ferndale Road	residential	"13'9"""	51.4638349	-0.1173638
+Carter Place	residential	4.7	51.4868642	-0.0959162
+Portland Mews	service	3.2	51.5144737	-0.1364243
+Blackwall Tunnel	trunk	4.7	51.5048735	-0.0022106
+Page Heath Villas	residential	3.8	51.4003824	0.0362771
+Queensborough Passage	service	3.1	51.5127356	-0.1849342
+Alexandra Avenue	primary	4.5	51.5573758	-0.3623832
+Thames Side	service	2.5	51.4134680	-0.3076319
+Northolt Road	primary	4.5	51.5567370	-0.3621441
+Eastern Avenue	trunk	default	51.5768602	0.0336238
+Upper Mulgrave Road	tertiary	4.8	51.3554263	-0.2114235
+Blackwall Tunnel	trunk	4	51.5040350	-0.0031243
+Lewisham Road	primary	4.9	51.4652620	-0.0111866
+	cycleway	4	51.4841981	0.1720201
+Eversley Cross	unclassified	3.9	51.4643240	0.1773914
+Back Church Lane	unclassified	5	51.5111171	-0.0668699
+Church Road	service	"13'9"""	51.6021536	-0.0705725
+Garnet Street	tertiary	4.8	51.5080729	-0.0550569
+West Street	unclassified	"16'0"""	51.5312041	-0.0569278
+	service	"12'0"""	51.5136688	-0.0378711
+Ponsford Street	tertiary	4.9	51.5476740	-0.0476030
+Ponsford Street	tertiary	4.7	51.5469901	-0.0478354
+Middleton Road	residential	4	51.5407101	-0.0754105
+	service	2.13	51.6082481	-0.3746360
+Rotherhithe New Road	primary	4.7	51.4885906	-0.0577148
+Trundley's Road	secondary	"7'9"""	51.4846738	-0.0421442
+	service	2.04	51.5367301	-0.3219473
+Urlwin Street	residential	4.5	51.4822132	-0.0956990
+Elm Park Court	service	2.7	51.5979058	-0.3915403
+Windermere Avenue	tertiary	4.87	51.5764420	-0.3084104
+Western Avenue	trunk	4.9	51.5298158	-0.2929917
+Western Avenue	trunk	4.9	51.5297382	-0.2930296
+Camley Street	unclassified	4.1	51.5356854	-0.1290640
+Pavilion Lane	service	4.7	51.4971187	0.0023810
+Cold Blow Lane	unclassified	2.85	51.4814418	-0.0447970
+Lynx Way	unclassified	2.1	51.5087718	0.0391478
+Eden Park Avenue	tertiary	4.6	51.3929390	-0.0279238
+Talbot Road	residential	4.8	51.5540735	0.0203909
+Millington Road	unclassified	2	51.5016748	-0.4254746
+Pump Lane	trunk_link	7.9	51.5039218	-0.4069382
+Mill Place	unclassified	"15'6"""	51.5119539	-0.0345338
+Sandown Road	residential	3.5	51.3176219	-0.1606432
+Station Road	primary	4.9	51.5848821	-0.3619407
+Pancras Road	primary	4.7	51.5335834	-0.1286008
+Aerodrome Road	tertiary	5.3	51.5933347	-0.2360211
+The Pines	track	none	51.3103866	-0.1548155
+Northend Road	primary	5	51.4642155	0.1818102
+Connaught Bridge	primary	"17'0"""	51.5050019	0.0395587
+Connaught Bridge	primary	"17'0"""	51.5049960	0.0397827
+Connaught Bridge	primary	"17'0"""	51.5075256	0.0401036
+Connaught Bridge	primary	"17'0"""	51.5057733	0.0397156
+Bridgwater Road	residential	3.58	51.5597426	-0.4072157
+Ayrton Road	service	"13'1"""	51.4989605	-0.1759374
+Holden Road	residential	3.35	51.6160296	-0.1864146
+	unclassified	3.5	51.5311471	-0.2984529
+Brady Street	unclassified	4	51.5237154	-0.0603481
+Thorpe Road	residential	4.3	51.5561072	0.0185552
+Cold Blow Lane	unclassified	3.5	51.4815952	-0.0433107
+Strand Underpass	primary	3.6	51.5122098	-0.1183447
+Bekesbourne Street	unclassified	"15'6"""	51.5124514	-0.0401015
+	service	3	51.4704014	-0.1571095
+	service	2.1	51.5136843	-0.1148580
+	service	3.6	51.5058873	-0.1158409
+Manor Road	primary	4	51.5283183	0.0048466
+Leman Street	primary	4.8	51.5113652	-0.0687142
+Bolina Road	cycleway	2.3	51.4880130	-0.0503632
+Wick Lane	tertiary	3.88	51.5383109	-0.0259235
+Upper Elmers End Road	residential	"14'9"""	51.3893114	-0.0258774
+Bromley Road	primary	3.6	51.4062531	0.0017271
+Sutton Street	unclassified	4.4	51.5119244	-0.0536525
+Charles Place	service	10'	51.5272553	-0.1370458
+	service	2	51.5342688	-0.1730507
+Bridgehill Close	service	3.2	51.5415416	-0.3021666
+Raphael Street	unclassified	default	51.5011486	-0.1626251
+London Road	service	none	51.4061706	-0.1640321
+London Road	service	none	51.4058795	-0.1640314
+Bancroft Road	residential	5	51.5233462	-0.0423823
+Wood Street	residential	default	51.5176036	-0.0935723
+Wallis Road	tertiary	4.5	51.5437699	-0.0253104
+Berners Mews	service	below_default	51.5187402	-0.1370341
+Wells Mews	service	3.81	51.5174150	-0.1377385
+Tinworth Street	residential	"14'0"""	51.4897567	-0.1221126
+Bittacy Hill	secondary	4.6	51.6081192	-0.2092854
+Pavilion Lane	service	4.7	51.4973844	0.0023020
+Salamanca Street	service	"13'6"""	51.4914041	-0.1202570
+Eardley Road	tertiary	3.7	51.4204865	-0.1387514
+Maran Way	residential	3.6	51.4935267	0.1290859
+Blackwall Tunnel	trunk	4.7	51.5094657	-0.0067557
+Woodmansterne Road	residential	4.6	51.4126731	-0.1268959
+Glencairn Road	residential	4.6	51.4140568	-0.1299265
+Barfield Road	residential	"13'0"""	51.4006952	0.0590653
+Chislehurst Road	secondary	3.81	51.4073549	0.0549813
+Summer Hill	primary	4.4	51.4046247	0.0584503
+Manor Way	unclassified	3	51.4395534	0.1451634
+St Pancras Way	primary	4.6	51.5419627	-0.1357916
+Maiden Lane	unclassified	3.4	51.4507972	0.1918330
+Bexley High Street	primary	4.5	51.4412712	0.1509551
+Howbury Lane	tertiary	"15'3"""	51.4641043	0.1873228
+	trunk_link	4.7	51.5114806	-0.0067807
+White Hart Road	unclassified	3.3	51.4900878	0.0921200
+Warwickshire Path	tertiary	"12'3"""	51.4802955	-0.0304395
+Edward Street	tertiary	"14'3"""	51.4805328	-0.0310383
+Warwickshire Path	tertiary	"12'3"""	51.4802842	-0.0304549
+Vallance Road	secondary	"12'9"""	51.5235914	-0.0639695
+Hemming Street	residential	"14'6"""	51.5234496	-0.0634039
+Brady Street	unclassified	4	51.5239605	-0.0603714
+Collingwood Street	residential	"11'6"""	51.5238923	-0.0583437
+Ennersdale Road	residential	3.9	51.4539367	-0.0037833
+Lewisham High Street	primary	4.9	51.4582513	-0.0129168
+Rolt Street	unclassified	"13'0"""	51.4825119	-0.0374378
+Rolt Street	unclassified	"13'0"""	51.4826987	-0.0369463
+Sharratt Street	residential	4.3	51.4826904	-0.0527143
+Talgarth Road	trunk_link	default	51.4913218	-0.2221494
+Dover Yard	service	3.8	51.5077378	-0.1425410
+Endsleigh Gardens	residential	none	51.5267109	-0.1308472
+Studland Street	primary	4.8	51.4941520	-0.2339943
+Rye Lane	pedestrian	4.9	51.4701718	-0.0686603
+Craven Hill Mews	residential	2.1	51.5135910	-0.1809686
+	service	2.28	51.5733868	-0.2956440
+Glamis Road	tertiary	4.8	51.5080973	-0.0507411
+Lea Bridge Road	primary	4.9	51.5736203	-0.0152908
+Fleet Square	residential	3.4	51.5270114	-0.1163140
+	unclassified	4.0	51.4588244	0.1996080
+New Spring Gardens Walk	unclassified	"13'3"""	51.4877687	-0.1224849
+Eastbourne Mews	service	"10'6"""	51.5162150	-0.1788271
+	service	2.2	51.5678612	-0.3554261
+	service	2.7	51.5616100	-0.2812802
+Elizabeth Bridge	residential	4.5	51.4923219	-0.1471463
+Lombard Road	secondary	3.2	51.4726187	-0.1769054
+Lombard Road	secondary	3.2	51.4719645	-0.1771378
+Camden Road	trunk	"15'6"""	51.5418874	-0.1383029
+Hare Row	unclassified	"14'3"""	51.5334852	-0.0577997
+Hare Row	unclassified	"14'3"""	51.5335764	-0.0580130
+Camden Mews	residential	3.8	51.5479138	-0.1291740
+Stewarts Road	unclassified	4.4	51.4767229	-0.1421756
+	service	1.9	51.3982812	-0.0424020
+Elmers End Road	primary	4.4	51.4041347	-0.0556296
+Ponsford Street	tertiary	4.7	51.5476855	-0.0477466
+Ponsford Street	tertiary	4.7	51.5472567	-0.0478324
+Ponsford Street	tertiary	4.9	51.5472447	-0.0476503
+Ponsford Street	tertiary	4.9	51.5469870	-0.0476598
+Newell Street	residential	4.5	51.5111558	-0.0313217
+Rich Street	residential	"13'6"""	51.5098607	-0.0278682
+Gill Street	residential	"15'3"""	51.5103852	-0.0289727
+Grenade Street	residential	"15'3"""	51.5102687	-0.0287716
+Devons Road	secondary	6.0	51.5245027	-0.0151842
+Rounton Road	residential	3.8	51.5246634	-0.0204566
+Campbell Road	tertiary	4.6	51.5245901	-0.0195296
+Arnold Road	unclassified	"13'6"""	51.5260617	-0.0225450
+Bow Road	trunk	4.76	51.5275830	-0.0230778
+Abbey Street	secondary	"15'0"""	51.4980689	-0.0727987
+	unclassified	"15'0"""	51.5040267	0.0709546
+Beaumont Mews	service	"10'0"""	51.5207589	-0.1513698
+Harrow Manorway	primary	5.3	51.4978165	0.1211700
+Harrow Manorway	primary	5.3	51.4977906	0.1212912
+Loampit Vale	trunk	4.8	51.4650966	-0.0175175
+Elmira Street	residential	4.5	51.4622397	-0.0165287
+Milk Street	residential	"15'3"""	51.4199462	0.0226266
+New Street Hill	residential	"13'0"""	51.4220935	0.0238942
+South Eden Park Road	secondary	"15'3"""	51.3876868	-0.0236406
+Pope's Road	pedestrian	"12'9"""	51.4628974	-0.1127766
+	service	2.08	51.5120280	-0.1621030
+	service	2.08	51.5093878	-0.1565963
+	service	2.08	51.5092085	-0.1578773
+Berners Mews	service	3.2	51.5170428	-0.1359320
+Bideford Avenue	tertiary	4.4	51.5356947	-0.3195783
+Old York Road	tertiary	4.8	51.4610916	-0.1874410
+	service	default	51.5021619	-0.1528664
+	service	2.8	51.5025126	-0.1530691
+	service	2	51.5435137	-0.1663660
+	service	default	51.4978347	-0.1548087
+	service	default	51.5085414	-0.1390393
+Thames Road	primary	4.9	51.4561963	0.2010046
+Middle Temple Lane	unclassified	below_default	51.5136201	-0.1115336
+Unwin Road	service	4	51.4992273	-0.1753978
+London Wall	primary	default	51.5175371	-0.0935921
+Lower Robert Street	service	2.8	51.5088240	-0.1229681
+Woodgrange Road	primary	4.9	51.5518268	0.0252577
+Shepherd's Lane	service	3.4	51.5471283	-0.0459920
+Blackwall Tunnel	trunk	4	51.5090455	-0.0071392
+	service	below_default	51.4835608	-0.1706095
+	unclassified	4.7	51.4739156	-0.4817914
+	unclassified	4.7	51.4739857	-0.4865429
+	unclassified	4.7	51.4743048	-0.4842118
+Pancras Road	primary	4.7	51.5339855	-0.1271636
+Pancras Road	primary	4.7	51.5339558	-0.1271298
+	service	below_default	51.5037361	-0.2797127
+	cycleway	2.3	51.4877694	-0.0512338
+Connaught Place	residential	4	51.5135049	-0.1626897
+	service	4.2	51.4827534	-0.1859341
+Barker Street	service	below_default	51.4845946	-0.1837952
+	service	1.85	51.5120102	-0.1004558
+	service	1.85	51.5119048	-0.1002369
+	service	3.1	51.5216236	-0.1644538
+	service	below_default	51.4841334	-0.1768013
+	service	default	51.4891774	-0.1658220
+	service	default	51.4924881	-0.1632724
+	service	default	51.4892227	-0.1653234
+Portman Gate	service	2.3	51.5238969	-0.1665732
+Portman Gate	service	4.5	51.5240464	-0.1662978
+Wyndham Yard	service	4	51.5189931	-0.1617551
+Bulmer Place	service	4.9	51.5093737	-0.1974301
+	service	2.44	51.4945218	-0.1900098
+Kensington Church Court	unclassified	below_default	51.5020117	-0.1914724
+	service	below_default	51.4994453	-0.1981328
+Colville Mews	residential	below_default	51.5150076	-0.2011748
+Colville Mews	residential	below_default	51.5151576	-0.1999706
+Norman Road	secondary	default	51.4780174	-0.0176938
+Bowland Yard	residential	2.7	51.5015815	-0.1571181
+Frederic Mews	residential	3	51.5013137	-0.1570166
+	service	4.3	51.4998952	-0.1568669
+	service	5	51.4940103	-0.1449869
+	service	5	51.4941248	-0.1448488
+	service	5	51.4939439	-0.1451155
+	service	5	51.4941362	-0.1448735
+	service	5	51.4942559	-0.1447224
+	service	5	51.4937823	-0.1454565
+Godstone Road	trunk	default	51.3368802	-0.1149191
+	service	3.1	51.5010052	-0.1894480
+Connaught Bridge	primary	"17'0"""	51.5085294	0.0403226
+Western Avenue	trunk	4.9	51.5305213	-0.2973220
+Stephen Street	unclassified	default	51.5180138	-0.1321317
+	service	2.13	51.4977143	-0.1263923
+Station Road	service	2.08	51.5179224	-0.2888964
+Central Avenue	tertiary	4.4	51.4645430	0.1000036
+High Road	trunk	4.8	51.5797218	-0.0728156
+Mansell Street	trunk	4.5	51.5107408	-0.0727656
+Embankment Place	service	default	51.5070334	-0.1228965
+Cricklewood Lane	primary	"15'6"""	51.5582021	-0.2124749
+	service	below_default	51.5004136	-0.1601560
+Weymouth Mews	residential	"8'9"""	51.5207539	-0.1463475
+Weymouth Mews	residential	"8'9"""	51.5206766	-0.1463104
+Weymouth Mews	residential	"8'9"""	51.5201072	-0.1460567
+Brunswick Mews	residential	3.2	51.5158718	-0.1599097
+Tunnel Road East	tertiary	"15'0"""	51.4769301	-0.4529041
+Tunnel Road West	tertiary	"15'0"""	51.4769315	-0.4530344
+Tunnel Side Bore West	unclassified	"7'9"""	51.4769324	-0.4531236
+Tunnel Side Bore East	unclassified	"7'9"""	51.4769291	-0.4528222
+Cab Road	service	4.7	51.5027247	-0.1114807
+Tower Bridge	trunk	default	51.5058406	-0.0751278
+Tower Bridge	trunk	default	51.5051546	-0.0755899
+Warner Street	unclassified	4.34	51.5234400	-0.1114421
+Boord Street	service	4.7	51.4951368	0.0047584
+Northolt Road	primary	4.5	51.5572956	-0.3622250
+Brook Mews North	residential	3.5	51.5135972	-0.1788962
+	service	3	51.5046035	-0.2249231
+	service	3.1	51.5048903	-0.2249647
+Church Road	tertiary	4.9	51.5119634	-0.3364826
+Martha's Buildings	service	"12'0"""	51.5247637	-0.0903728
+Old Street	trunk	4.8	51.5272156	-0.0786686
+	service	below_default	51.5221172	-0.0818375
+Lincoln Road	tertiary	5.02	51.6474100	-0.0744630
+Cambridge Grove	residential	4.3	51.4935105	-0.2302231
+Kilburn High Road	primary	"15'9"""	51.5452543	-0.2018899
+Buckhurst Street	unclassified	"12'0"""	51.5242072	-0.0554975
+Coventry Road	unclassified	"9'8"""	51.5240566	-0.0564879
+Coventry Road	unclassified	"16'3"""	51.5249101	-0.0565958
+Glasshouse Walk	residential	4.4	51.4887784	-0.1224081
+	service	"14'0"""	51.4950701	-0.1161458
+South Lambeth Place	unclassified	default	51.4848078	-0.1231433
+	service	1.98	51.5794288	-0.3426833
+St. Mildred's Road	trunk	4.5	51.4454280	0.0054814
+South Lambeth Place	unclassified	default	51.4847639	-0.1231769
+South Lambeth Place	unclassified	default	51.4852000	-0.1233021
+	service	3.8	51.4988266	-0.1593928
+Grosvenor Road	trunk	4.4	51.4857727	-0.1473415
+Edinburgh Gate	unclassified	default	51.5020397	-0.1622582
+Moor Lane	tertiary	4.6	51.3651930	-0.2989064
+Hampden Way	tertiary	4.72	51.6222758	-0.1354991
+Ordnance Crescent	service	4.7	51.4984313	0.0023142
+Caroline Street	residential	"6'6"""	51.5122447	-0.0436679
+Ratcliffe Cross Street	residential	"6'6"""	51.5122909	-0.0430202
+Weymouth Mews	residential	3.8	51.5205847	-0.1468397
+	service	2.2	51.5203657	-0.1460069
+Melcombe Place	unclassified	5	51.5221925	-0.1630367
+Melcombe Place	unclassified	5	51.5222803	-0.1630579
+	service	3.9	51.5272376	-0.0366766
+Euston Road	trunk	none	51.5238988	-0.1431728
+Dixon Road	unclassified	default	51.4744367	-0.0360273
+	service	none	51.5879754	-0.2204069
+	trunk_link	4.7	51.5105983	-0.0069858
+	service	4.7	51.5130710	-0.0080108
+Lombard Road	secondary	3.2	51.4721967	-0.1770749
+Blackwall Tunnel	trunk	4.7	51.5091416	-0.0065955
+Blackwall Tunnel	trunk	4.7	51.5092205	-0.0066441
+Pavilion Lane	service	4.7	51.4976300	0.0025660
+Blackwall Tunnel Approach	trunk	4	51.4964524	0.0021846
+Ordnance Crescent	service	4.7	51.4982645	0.0024657
+Blackwall Tunnel	trunk	4	51.5090993	-0.0071199
+Blackwall Tunnel Approach	trunk	4	51.4989430	0.0014089
+Blackwall Tunnel Approach	trunk	4	51.4990126	0.0013801
+Blackwall Tunnel Approach	trunk	4	51.4978478	0.0017323
+Blackwall Tunnel Approach	trunk	4	51.4967543	0.0020492
+Wick Road	primary	3.4	51.5447187	-0.0320461
+East Poultry Avenue	residential	4.65	51.5188938	-0.1027151
+Pavilion Lane	service	4.7	51.4980325	0.0024466
+	service	default	51.5157916	-0.2217605
+	service	3.4	51.5316909	-0.2421965
+Stanhope Way	unclassified	none	51.4948240	-0.2730848
+Wood Street	secondary	4.1	51.5864018	-0.0026317
+	service	below_default	51.4914459	-0.1217182
+	service	2.3	51.4687210	-0.0317854
+St Katharine's Way	unclassified	3.9	51.5065602	-0.0720421
+French Ordinary Court	service	"7'9"""	51.5113297	-0.0785910
+	service	2.2	51.5214252	-0.1625943
+	service	below_default	51.5216130	-0.1239584
+Canal Reach	residential	none	51.5393215	-0.1251763
+Bow Common Lane	tertiary	4.1	51.5207391	-0.0272890
+Latchmere Road	trunk	4.7	51.4679429	-0.1630561
+Vyner Street	unclassified	4.3	51.5347003	-0.0549137
+	service	2	51.5733999	-0.0378167
+	service	2	51.5732057	-0.0376231
+	service	2	51.5602109	-0.3086469
+Butcher Row	trunk	default	51.5123040	-0.0416139
+	service	2	51.5732710	-0.0383182
+	service	4.4	51.5423547	0.0046671
+Grafton Mews	residential	below_default	51.5231930	-0.1387128
+Radnor Mews	residential	below_default	51.5144855	-0.1725909
+Manette Street	unclassified	2.5	51.5146239	-0.1310311
+Percy Mews	service	below_default	51.5177662	-0.1340548
+Newman Passage	service	below_default	51.5179513	-0.1357158
+Ferry Approach	trunk	4.8	51.4948634	0.0617818
+Moor Lane	tertiary	4.6	51.3654139	-0.2992535
+Bridge Road	tertiary	4.8	51.3634446	-0.3015906
+Bridge Road	tertiary	4.8	51.3633963	-0.3015809
+Lea Bridge Road	primary	4.9	51.5736630	-0.0152314
+Grosvenor Cottages	unclassified	below_default	51.4940750	-0.1556207
+	service	"6'3"""	51.5203003	-0.0955305
+Christchurch Avenue	tertiary	"14'9"""	51.5466683	-0.2043196
+Chilworth Mews	residential	"7'3"""	51.5149370	-0.1770652
+	path	"5'11"""	51.4417393	-0.3670210
+Brent Road	residential	2.25	51.5031530	-0.4004697
+Chapone Place	service	3.1	51.5143024	-0.1327023
+Fairfield Road	secondary	4.1	51.5307019	-0.0220116
+Three Colts Lane	secondary	"15'6"""	51.5245172	-0.0570753
+	service	default	51.4346003	-0.0187758
+Skerne Road	cycleway	3.8	51.4131666	-0.3051384
+Talbot Court	service	3	51.5112113	-0.0853590
+Canal Reach	unclassified	none	51.5385522	-0.1266628
+	service	2.1	51.5144108	-0.1429069
+	service	2.1	51.5142963	-0.1428497
+	service	2.1	51.5141864	-0.1427933
+High Street	primary	4.8	51.4148984	-0.3130359
+Popes Grove	residential	3.8	51.4417012	-0.3390706
+	trunk_link	4.7	51.5097340	-0.0068440
+Blackwall Tunnel Approach	trunk	4	51.4966154	0.0021026
+Blackwall Tunnel Northern Approach	trunk	4.7	51.5097318	-0.0068595
+Mortlake Road	trunk	4.5	51.4803402	-0.2830185
+Orchard Place	residential	"14'3"""	51.6029871	-0.0707139
+Village Way	primary	"14'3"""	51.4526990	-0.0908147
+Whitehall Street	residential	"13'9"""	51.6036484	-0.0708119
+White Hart Lane	tertiary	"14'3"""	51.6053764	-0.0710600
+	service	4.4	51.5486284	-0.0659519
+	service	3.55	51.5017089	-0.1588710
+Colne Road	residential	"13'6"""	51.4453996	-0.3387156
+Alexandra Avenue	primary	4.5	51.5574135	-0.3620777
+Alexandra Avenue	primary	4.5	51.5575669	-0.3622896
+Northolt Road	primary	4.5	51.5569554	-0.3620557
+Northolt Road	primary	4.5	51.5575390	-0.3619864
+Hamilton Mews	service	2	51.5041787	-0.1496194
+Hamilton Mews	service	2	51.5040696	-0.1499494
+Hamilton Mews	service	2	51.5042830	-0.1493034
+	service	"10'5"""	51.5045594	-0.1495882
+Cox Lane	tertiary	4.6	51.3690252	-0.2947319
+	service	2.6	51.5387936	0.0814510
+Green Park Way	unclassified	5.1	51.5421809	-0.3371739
+Chalk Hill Road	service	default	51.4922777	-0.2207976
+Goldhawk Road	primary	"15'9"""	51.5024000	-0.2266914
+	service	3.9	51.5010383	-0.1160836
+	service	3.9	51.5007818	-0.1162881
+Brixton Road	trunk	4.8	51.4633938	-0.1147806
+	service	default	51.5259636	-0.1295239
+	service	2.8	51.5146776	-0.1627088
+Portobello Road	residential	4	51.5186506	-0.2071688
+Wellington Close	service	below_default	51.5151402	-0.1991595
+Edgware Road	primary	4.8	51.5617471	-0.2207797
+Dudmaston Mews	unclassified	default	51.4896818	-0.1747570
+	service	3.4	51.5318489	-0.2440288
+Connaught Bridge	primary	"17'0"""	51.5065899	0.0398223
+Connaught Bridge	primary	"17'0"""	51.5065803	0.0399740
+Connaught Bridge	primary	"17'0"""	51.5075326	0.0399586
+Connaught Bridge	primary	"17'0"""	51.5057653	0.0398654
+Montague Street	primary	default	51.5176319	-0.0977154
+Old Kent Road	trunk	default	51.4786032	-0.0542287
+Deptford High Street	unclassified	4.7	51.4788296	-0.0260651
+Sutherland Square	residential	4.6	51.4856175	-0.0962041
+Sutherland Square	residential	4.8	51.4858823	-0.0967390
+Croxted Road	primary	4.7	51.4503059	-0.1001947
+Hornshay Street	unclassified	4.5	51.4809592	-0.0530000
+Queen's Road	trunk	"15'0"""	51.4734204	-0.0575938
+Latchmere Road	trunk	3.5	51.4702839	-0.1643599
+Boundaries Road	residential	4.6	51.4434980	-0.1551395
+Burbage Road	tertiary	7.60	51.4506406	-0.0947778
+Wilkin Street	residential	3.8	51.5481691	-0.1466391
+Athlone Street	unclassified	"15'3"""	51.5485636	-0.1469730
+Grafton Road	residential	"12'6"""	51.5487650	-0.1471244
+Silchester Road	tertiary	4.7	51.5148638	-0.2160209
+St. Mark's Road	residential	default	51.5167200	-0.2137127
+The Gardens	tertiary	4.4	51.5798001	-0.3527459
+St Loys Road	residential	"13'3"""	51.5924672	-0.0706296
+Upminster Road	primary	4.6	51.5588053	0.2371639
+Vansittart Road	residential	4.6	51.5546213	0.0198771
+Pevensey Road	residential	4.3	51.5550545	0.0193141
+Ramsay Road	residential	"15'3"""	51.5568265	0.0174584
+High Road Leytonstone	tertiary	5	51.5630084	0.0095280
+Grove Green Road	primary	4.2	51.5662260	0.0024168
+Andrews Road	unclassified	4.5	51.5344094	-0.0579230
+London Wall	primary	default	51.5174572	-0.0934663
+Leman Street	primary	4.8	51.5112517	-0.0686699
+Rounton Road	residential	3.8	51.5244079	-0.0205140
+Wick Lane	unclassified	3.89	51.5315894	-0.0192146
+Manor Road	primary	"13'0"""	51.5300685	0.0049306
+Three Colt Street	residential	4.7	51.5108449	-0.0303062
+Laburnum Street	tertiary	4.3	51.5351922	-0.0757141
+Holloway Lane	primary	5	51.4958838	-0.4570836
+Cricketfield Road	residential	"8'9"""	51.5430054	-0.4778838
+Brighton Road	primary	4.6	51.3133086	-0.1412671
+Portland Road	primary	3.7	51.3992920	-0.0742339
+Elmers End Road	primary	4.4	51.4037860	-0.0552807
+Thames Road	residential	"14'0"""	51.4850150	-0.2784125
+The Terrace	primary	4.7	51.4723067	-0.2530844
+Mary's Terrace	residential	"12'3"""	51.4497455	-0.3304605
+Kingston Road	primary	"15'9"""	51.4015502	-0.2681756
+St Ann's Road	secondary	4.8	51.5774667	-0.0751371
+Jarrow Road	residential	4.7	51.5843967	-0.0600718
+Bream Close	residential	3.7	51.5854293	-0.0559745
+Park Street	unclassified	3.5	51.5070293	-0.0950459
+Newington Causeway	primary	5.4	51.4975067	-0.0988342
+London Road	trunk	4.8	51.4118000	-0.1235062
+Manor Farm Road	unclassified	2.5	51.4087395	-0.1155363
+Shakespeare Road	service	4.2	51.4571716	-0.1053463
+Northolt Road	primary	4.6	51.5649277	-0.3526160
+West End Road	primary	4.7	51.5616503	-0.4126911
+Northolt Road	primary	4.5	51.5570601	-0.3622749
+North Circular Road	trunk	4.8	51.5330007	-0.2913033
+Kenworthy Road	primary	3.5	51.5468245	-0.0369990
+Connaught Road	primary	5.1	51.5039268	0.0421187
+Mews Yard	service	below_default	51.5151502	-0.1259230
+Victoria Road	tertiary	5.2	51.5722571	-0.4122863
+Western Avenue	trunk	5.6	51.5483284	-0.3999709
+The Parkway	trunk	5.5	51.5165645	-0.4009145
+	motorway	5.2	51.4936676	-0.4286587
+	motorway	5.2	51.4935297	-0.4286961
+Grey Eagle Street	unclassified	5	51.5214606	-0.0734103
+Dockside Road	unclassified	5	51.5076497	0.0400884
+Woolwich Road	primary	4.8	51.4867272	0.0195598
+Deodar Road	residential	4.8	51.4641952	-0.2103940
+Queen Mary Close	service	2	51.3732374	-0.2868247
+Lynx Way	unclassified	5.1	51.5080737	0.0391695
+Maran Way	residential	3.6	51.4957060	0.1289356
+Parkside Cross	unclassified	4.8	51.4644629	0.1726063
+Old Manor Way	residential	3.9	51.4645211	0.1676770
+Station Road	primary	4.4	51.4340279	0.1026396
+Sidcup By-pass	trunk	4.9	51.4186285	0.0983567
+Page Heath Villas	residential	3.8	51.3994052	0.0368422
+Page Heath Villas	residential	3.8	51.3996681	0.0366834
+Dockside Road	unclassified	4.3	51.5081330	0.0451908
+Barnabas Road	residential	3.7	51.5470418	-0.0419684
+Churchill Gardens Road	residential	4.2	51.4862457	-0.1385119
+Horsenden Lane South	tertiary	4.7	51.5369518	-0.3241846
+Alperton Lane	secondary	4.8	51.5328088	-0.3078728
+Brighton Road	primary	4.5	51.3908988	-0.3085062
+Manor Drive North	residential	4.8	51.3842655	-0.2616611
+Forest Road	tertiary	4.5	51.3849148	-0.2002835
+Park Road	cycleway	3.9	51.6177328	-0.0654306
+Harrowdene Road	residential	4.6	51.5543306	-0.3044308
+Lyon Way	service	4.8	51.5408813	-0.3397941
+North Street	secondary	4.6	51.3686941	-0.1651968
+Riverside	unclassified	4.2	51.4934797	0.0254324
+Upper Wickham Lane	primary	4.9	51.4644641	0.1088344
+Sidcup Road	trunk	4.9	51.4468863	0.0306563
+Stanhope Grove	residential	4.5	51.3931053	-0.0355869
+Homesdale Road	secondary	4.11	51.4004504	0.0345720
+Homesdale Road	secondary	4.1	51.3996120	0.0327097
+Tiepigs Lane	tertiary	4.4	51.3767838	0.0040492
+Gravel Hill	primary	4.7	51.3546977	-0.0419204
+Gravel Hill	primary	4.7	51.3543246	-0.0398189
+	residential	3.5	51.4179474	-0.3824666
+Sheepcote Lane	unclassified	4.2	51.3930416	0.1391437
+Upper Elmers End Road	primary	4.5	51.3934587	-0.0414537
+Catford Hill	trunk	4.8	51.4436411	-0.0264277
+Kingston Road	trunk	4.6	51.3771924	-0.2787409
+Kingston Road	trunk	4.6	51.3772867	-0.2785878
+Central Road	primary	4.7	51.3807848	-0.2451276
+Stanhope Road	residential	4.49	51.5745397	-0.1349295
+Church Street	secondary	4.5	51.6251657	-0.0611286
+Cromer Road	service	4.6	51.4727226	-0.4550644
+Ealing Road	primary	4.8	51.5404672	-0.2992585
+Camden Mews	residential	3.8	51.5483944	-0.1285015
+Camden Mews	residential	3.8	51.5484626	-0.1284098
+	unclassified	4.7	51.4743093	-0.4826307
+	unclassified	4.7	51.4742999	-0.4857405
+Sussex Road	residential	"14'3"""	51.3593058	-0.0927180
+	service	1.5	51.5748125	-0.0536564
+	service	1.5	51.5747502	-0.0537613
+Dagmar Terrace	residential	2.9	51.5389948	-0.1008699
+Mortimer Market	unclassified	default	51.5225523	-0.1356186
+Blackwall Tunnel	trunk	4.7	51.4998695	0.0018069
+Blackwall Tunnel	trunk	4.7	51.5006033	0.0019200
+Blackwall Tunnel	trunk	4.7	51.5005221	0.0019076
+Chalk Hill Road	service	default	51.4922655	-0.2198952
+Novotel Parking	service	1.8	51.4922832	-0.2208391
+	service	3.6	51.4613091	-0.0756976
+	service	3.6	51.4612941	-0.0757232
+Thurlow Park Road	trunk	4.1	51.4406726	-0.1040272
+Bear Alley	unclassified	4.26	51.5160451	-0.1041319
+Bear Alley	unclassified	4.26	51.5160056	-0.1045109
+Bear Alley	unclassified	4.26	51.5159881	-0.1046858
+Suttons Way	service	4.7	51.5217189	-0.0921332
+Stephen Street	unclassified	default	51.5180624	-0.1321794
+Maple Place	service	below_default	51.5223022	-0.1378646
+Charles Place	service	10'	51.5271008	-0.1368722
+Charles Place	service	10'	51.5271586	-0.1369320
+Berners Mews	service	3.2	51.5171142	-0.1359862
+Berners Place	service	3.2	51.5168775	-0.1358144
+Charlotte Mews	unclassified	"11'0"""	51.5203895	-0.1359457
+Charlotte Mews	unclassified	default	51.5208860	-0.1364470
+Lewisham Road	primary	4.9	51.4650751	-0.0112406
+St Catherine's Mews	residential	below_default	51.4941755	-0.1639093
+Link Street	residential	3.3	51.5472941	-0.0493183
+Lincoln Road	footway	5.02	51.6473814	-0.0742012
+Lincoln Road	tertiary	5.02	51.6473677	-0.0739692
+Lombard Road	secondary	3.2	51.4728917	-0.1767863
+Lombard Road	secondary	3.2	51.4724150	-0.1769587
+	service	3.85	51.5380557	-0.1404917
+	service	2	51.5805318	-0.3402263
+	service	2	51.5806934	-0.3400303
+	service	2	51.5806932	-0.3400304
+	service	2	51.5806920	-0.3400315
+	service	2	51.5806917	-0.3400367
+	service	2	51.5809299	-0.3398862
+	service	2	51.5806908	-0.3400375
+	service	2	51.5806540	-0.3402485
+	service	2	51.5809333	-0.3398003
+	service	2	51.5806973	-0.3400367
+	service	default	51.5259019	-0.1289355
+	pedestrian	below_default	51.4779981	-0.0268963
+	service	below_default	51.5266896	-0.1285933
+Pancras Road	primary	4.7	51.5337880	-0.1276236
+Wood Street	unclassified	default	51.5173777	-0.0937342
+	service	default	51.5118585	-0.1167382
+	service	below_default	51.4813726	-0.0238275
+Peterborough Court	unclassified	below_default	51.5143467	-0.1065130
+Gough Square	service	3.5	51.5150405	-0.1078949
+Gough Square	service	3.5	51.5151341	-0.1081090
+Portland Mews	service	3.2	51.5144315	-0.1363903
+	service	"10'9"""	51.5154479	-0.1349863
+Howland Mews East	service	below_default	51.5219131	-0.1362292
+Sunlight Square	unclassified	3.7	51.5256183	-0.0573059
+	service	none	51.5249616	-0.0948305
+	service	"12'0"""	51.4525548	-0.0170344
+Armoury Road	residential	below_default	51.4664595	-0.0147507
+French Ordinary Court	service	"7'9"""	51.5112510	-0.0785628
+French Ordinary Court	service	"7'9"""	51.5111880	-0.0785426
+	service	2.5	51.5177066	-0.1625569
+Cato Street	residential	2.6	51.5182936	-0.1655292
+Unwin Road	service	4	51.4982965	-0.1752096
+Fairfield Road	secondary	4.1	51.5302764	-0.0215712
+Fairfield Road	secondary	4.1	51.5305796	-0.0218847
+	service	1.98	51.4636475	-0.3055576
+Mantle Road	tertiary	"8'6"""	51.4650404	-0.0381385
+Bakers Hill	unclassified	"7'0"""	51.6585565	-0.1813331
+Fisher Close	residential	"7'6"""	51.5511223	-0.0433323
+	service	default	51.5235873	-0.1270579
+	service	below_default	51.5100214	-0.0384320
+St Michael's Mews	unclassified	below_default	51.4912897	-0.1549243
+	service	below_default	51.4905713	-0.1545909
+High Road	trunk	4.8	51.5803447	-0.0726956
+Novotel Parking	service	1.8	51.4922854	-0.2201580
+Black Prince Road	residential	"13'9"""	51.4919209	-0.1194022
+Three Colts Lane	secondary	"15'6"""	51.5245090	-0.0566650
+Hertford Place	service	below_default	51.5228846	-0.1380676
+Talgarth Road	trunk_link	default	51.4912570	-0.2218181
+Royal College Street	primary	4.8	51.5419306	-0.1384885
+Vallance Road	secondary	"12'9"""	51.5233875	-0.0640465
+	service	2.7	51.5313191	0.1458571
+	service	4.2	51.5599108	0.0074406
+	service	4.2	51.5599678	0.0074784
+	service	4.2	51.5599409	0.0075135
+	service	4.2	51.5599705	0.0074317
+	service	3.9	51.5005770	-0.1164535
+Wick Lane	tertiary	3.88	51.5380570	-0.0256079
+	service	none	51.6139161	-0.1510334
+	service	below_default	51.6013176	-0.2095182
+	service	default	51.5271591	-0.1290277
+	service	3.9	51.5158630	-0.0901708
+	service	2.8	51.5146677	-0.0957305
+	service	1.8	51.5147098	-0.0957190
+	service	5	51.5132653	-0.0943543
+Ravensbourne Park	tertiary	4.5	51.4440059	-0.0261274
+Marsh Road	tertiary	4.9	51.5932011	-0.3821049
+London Road	service	none	51.4056085	-0.1640271
+London Road	service	none	51.4067845	-0.1638960
+Bush Lane	unclassified	default	51.5105380	-0.0896487
+Studio Place	residential	3.5	51.5019063	-0.1572434
+Kinnerton Place South	residential	2.7	51.5014365	-0.1570782
+	service	4.3	51.4998640	-0.1570409
+	service	4.3	51.4998776	-0.1569661
+	service	4.2	51.4999334	-0.1569906
+Turnpike Lane	primary	4.98	51.5882588	-0.1126304
+Eastern Avenue	trunk	default	51.5514849	-0.0172671
+Northwall Road	unclassified	default	51.5513996	-0.0153332
+	trunk_link	default	51.5513825	-0.0172486
+Temple Mills Road	trunk_link	default	51.5516569	-0.0172994
+Eastern Avenue	trunk	default	51.5515707	-0.0172888
+Old York Road	tertiary	4.8	51.4612881	-0.1872361
+Manor Drive North	residential	4.8	51.3846083	-0.2622397
+	pedestrian	default	51.5128448	-0.0906251
+	service	4.75	51.5120107	-0.0916499
+Queenstown Road	primary	4.7	51.4749977	-0.1464964
+	service	none	51.5879841	-0.2209951
+Wells Mews	service	3.81	51.5173786	-0.1378069
+Wells Mews	service	3.81	51.5173415	-0.1378730
+Royal Crest Avenue	residential	default	51.5017697	0.0301283
+Leman Street	primary	4.8	51.5110329	-0.0685981
+Back Church Lane	unclassified	5	51.5113405	-0.0668988
+	residential	4.1	51.5423385	-0.0576187
+Martello Terrace	unclassified	3.6	51.5408812	-0.0578182
+Lamb Lane	unclassified	4.7	51.5401437	-0.0580137
+Warburton Road	unclassified	4.7	51.5387613	-0.0582327
+Exmouth Place	unclassified	4.7	51.5389098	-0.0582215
+London Lane	residential	4.5	51.5419137	-0.0576357
+Bocking Street	unclassified	4.8	51.5372930	-0.0581668
+Westgate Street	tertiary	4.8	51.5377815	-0.0581902
+King Charles Street	unclassified	default	51.5021365	-0.1265421
+Headstone Drive	tertiary	4.1	51.5937917	-0.3381055
+Elm Road	residential	"9'0"""	51.4021398	-0.2653126
+Royal College Street	primary	4.8	51.5417453	-0.1383121
+Manbey Mews	footway	3	51.5446172	0.0060780
+Manbey Mews	footway	2	51.5446983	0.0065595
+	service	below_default	51.5442387	0.0068908
+	service	below_default	51.5443508	0.0075925
+Manbey Mews	footway	3	51.5446290	0.0061493
+	service	3.6	51.5333416	-0.0571042
+	service	default	51.5418069	0.0088299
+	service	3.2	51.5014037	-0.1158395
+Suttons Way	service	4.7	51.5216980	-0.0923393
+Suttons Way	service	4.7	51.5217546	-0.0917829
+Neasden Lane	secondary	4.64	51.5524568	-0.2487581
+	service	default	51.5015186	-0.1664582
+	service	default	51.5013663	-0.1657267
+Trussley Road	residential	3.3	51.4987605	-0.2259933
+	service	below_default	51.4587488	0.0010659
+Long Drive Low Bridge	tertiary	3.6	51.5567049	-0.3980895
+	service	4.6	51.5390293	-0.0563990
+	service	4.6	51.5390082	-0.0562976
+Mare Street	primary	4.8	51.5469836	-0.0550397
+Braithwaite Street	cycleway	"13'3"""	51.5227995	-0.0753512
+	service	2.80	51.5442870	0.0047502
+	service	3.9	51.5271764	-0.0368639
+	service	3.9	51.5272026	-0.0367936
+	service	none	51.3235886	-0.1300494
+Station Road	primary	4.9	51.5846262	-0.3621961
+Pickering Close	service	2.8	51.5420628	-0.0468480
+Leman Street	primary	4.8	51.5108344	-0.0685344
+Portland Road	primary	3.7	51.3989895	-0.0736363
+	cycleway	4	51.4846005	0.1730776
+Ravensbourne Park	tertiary	4.5	51.4440634	-0.0261346
+Ravensbourne Park	tertiary	4.5	51.4441152	-0.0263006
+Upper Elmers End Road	residential	"14'9"""	51.3888105	-0.0244619
+Bolina Road	cycleway	2.3	51.4881762	-0.0501636
+Bolina Road	cycleway	2.3	51.4878216	-0.0508059
+Loampit Vale	trunk	4.8	51.4647377	-0.0166353
+Whale's Yard	service	3.5	51.5389769	0.0048072
+	cycleway	3.7	51.4823388	-0.0398383
+Cypress Place	service	"12'0"""	51.5221712	-0.1365165
+	service	4.2	51.4807241	-0.0591382
+	service	4.2	51.4806920	-0.0591700
+	service	4.2	51.4806704	-0.0591914
+	service	4.2	51.4806393	-0.0592222
+	service	4.2	51.4806515	-0.0590647
+Patterdale Road	residential	default	51.4797086	-0.0545194
+Wagner Street	service	below_default	51.4790645	-0.0539073
+	service	"6'6"""	51.5389425	0.0340792
+	service	"6'6"""	51.5388886	0.0340541
+Woodlands Way	residential	"13'3"""	51.4597558	-0.2088724
+Chopwell Close	residential	default	51.5391438	0.0029689
+Gough Square	service	3.5	51.5150943	-0.1080998
+Loampit Vale	trunk	4.8	51.4648131	-0.0168650
+	service	default	51.4452500	-0.3305202
+Old Mitre Court	residential	"10'8"""	51.5139875	-0.1093874
+	service	2.04	51.5361671	-0.3195070
+Elizabeth Bridge	residential	4.5	51.4921026	-0.1465104
+	service	2.2	51.5274419	-0.1339829
+Grange Vale	residential	3.5	51.3555498	-0.1934194
+Cockspur Court	residential	default	51.5071628	-0.1293308
+High Road	trunk	4.8	51.5798890	-0.0727829
+Mulberry Mews	residential	below_default	51.4740708	-0.0335546
+Queen Elizabeth Road	unclassified	"10'3"""	51.4127971	-0.2960676
+Royal College Street	primary	4.8	51.5418612	-0.1384220
+Sebert Road	residential	4.7	51.5515113	0.0340043
+Balmoral Road	tertiary	4.2	51.5513893	0.0344325
+Latimer Road	residential	4.5	51.5518178	0.0315472
+Royal Albert Hall Loading Bay	service	"14'9"""	51.5001541	-0.1775254
+Millers Row	residential	default	51.5492064	-0.0115309
+Millers Row	residential	default	51.5487909	-0.0123150
+Weavers Row	residential	default	51.5486121	-0.0126555
+Cavendish Mews South	residential	below_default	51.5197175	-0.1434227
+Cavendish Mews North	unclassified	"10'6"""	51.5202995	-0.1437014
+	service	4.5	51.4520373	-0.0165442
+	service	4.5	51.4520667	-0.0163145
+	service	4.5	51.4520276	-0.0164196
+Portman Mews South	unclassified	default	51.5148783	-0.1544769
+Norman Road	secondary	default	51.4780174	-0.0176528
+Norman Road	secondary	default	51.4779020	-0.0176659
+Lea Bridge Road	primary	4.9	51.5738402	-0.0149832
+Ayrton Road	service	4	51.4988723	-0.1770523
+Lower Downs Road	tertiary	"7'9"""	51.4127311	-0.2193573
+	service	below_default	51.5193695	-0.1332735
+	service	below_default	51.5222330	-0.1380801
+	service	below_default	51.5265648	-0.1242352
+Adrian Mews	residential	below_default	51.4851168	-0.1889935
+	service	3	51.5179850	-0.1539013
+Manchester Mews	service	3.2	51.5180993	-0.1535568
+	service	2.5	51.5197872	-0.1549448
+	service	3	51.5198599	-0.1546472
+	service	2.08	51.5102574	-0.1596483
+Pancras Road	primary	4.7	51.5337880	-0.1278988
+Pancras Road	primary	4.7	51.5336004	-0.1282416
+Romney Mews	service	2.5	51.5215857	-0.1559829
+	service	3.5	51.5149578	-0.1599585
+Wythburn Place	residential	3.5	51.5158027	-0.1603221
+Beverston Mews	service	3.4	51.5193224	-0.1602903
+Bow Road	trunk	4.76	51.5276319	-0.0227841
+Old Street	trunk	4.8	51.5271934	-0.0782623
+Lea Bridge Road	primary	4.9	51.5737550	-0.0151035
+	service	3	51.5182864	-0.1667525
+	service	2	51.5195642	-0.1653644
+	service	2.5	51.5197584	-0.1652368
+Huntsworth Mews	residential	3	51.5242240	-0.1613262
+Huntsworth Mews	residential	3.3	51.5244110	-0.1614164
+	service	3.2	51.5249678	-0.1609268
+	service	2.1	51.5214598	-0.1643957
+Palgrave Gardens	residential	4	51.5256066	-0.1630563
+	service	4.3	51.3926192	0.0022539
+	service	4.3	51.3925675	0.0022994
+	service	4.3	51.3925095	0.0023375
+	cycleway	"7'5"""	51.5639925	-0.0413623
+Cannon Hill Lane	residential	4.6	51.4072816	-0.2114584
+Whatley Avenue	residential	4.7	51.4074783	-0.2117838
+	service	"8'4"""	51.4089269	-0.2276383
+	service	below_default	51.3859123	-0.0697369
+	service	below_default	51.5479938	0.0214635
+	service	below_default	51.4916952	-0.1722667
+Sydney Close	residential	below_default	51.4912281	-0.1730503
+Streatham Road	primary	4.7	51.4177519	-0.1503972
+Royal College Street	primary	4.8	51.5419917	-0.1385356
+St Pancras Way	primary	4.6	51.5417949	-0.1355684
+	service	4.1	51.4404677	-0.1251811
+Wood Lane	primary	4.9	51.5094801	-0.2245376
+	service	default	51.4301380	-0.1292318
+Suttons Way	service	4.7	51.5216780	-0.0925245
+Links Avenue	tertiary	4.8	51.3995522	-0.2014804
+St. Clements Court	residential	2.5	51.5118430	-0.2162255
+Eastbourne Mews	service	"10'6"""	51.5160571	-0.1785847
+Eastbourne Mews	service	"10'6"""	51.5161337	-0.1787035
+Toynbee Road	residential	4.4	51.4143679	-0.2149187
+Kingston Road	primary	default	51.4092017	-0.2140665
+Park West Place	residential	6	51.5164279	-0.1656997
+Park West Place	residential	6	51.5162304	-0.1653948
+Park West Place	residential	6	51.5160140	-0.1650713
+Park West Place	residential	6	51.5158180	-0.1647760
+Erconwald Street	residential	4.5	51.5166287	-0.2472268
+Adam and Eve Mews	residential	default	51.5002005	-0.1947863
+Portsea Mews	residential	3	51.5151276	-0.1644678
+Conway Mews	service	below_default	51.5221109	-0.1396384
+Wood Street	residential	default	51.5176104	-0.0936139
+High Street	primary	4.8	51.4181237	-0.0600530
+Chenies Mews	service	below_default	51.5230459	-0.1345095
+	service	default	51.4882928	-0.2893331
+Deptford Church Street	unclassified	4.8	51.4784377	-0.0229806
+Deptford Church Street	primary	4.8	51.4784454	-0.0228734
+Alexander Mews	residential	below_default	51.5170745	-0.1923059
+Camden Road	trunk	"15'6"""	51.5417753	-0.1383969
+St John's Mews	service	below_default	51.5149818	-0.1991218
+Ossington Close	residential	below_default	51.5115914	-0.1929495
+Ovington Mews	unclassified	default	51.4977053	-0.1661912
+	service	below_default	51.5137698	-0.2009359
+Pencombe Mews	residential	below_default	51.5135502	-0.2006702
+	service	2.1	51.5136114	-0.1152688
+	service	2.1	51.5136137	-0.1150123
+Bexley High Street	primary	4.5	51.4411781	0.1510767
+St Luke's Mews	residential	below_default	51.5181142	-0.2019573
+Station Road	primary	4.9	51.5848161	-0.3620016
+	service	below_default	51.4936994	-0.1631355
+Glamis Road	tertiary	4.8	51.5082150	-0.0507227
+Lorne Road	residential	4.5	51.5517326	0.0329351
+	service	"12'0"""	51.5184424	-0.2244794
+Silchester Road	tertiary	4.7	51.5146568	-0.2143519
+Dale Row	residential	below_default	51.5147702	-0.2101111
+Wells Way	service	4	51.4987213	-0.1786897
+Bignold Road	residential	4.4	51.5527891	0.0223679
+Strode Road	residential	4.8	51.5532683	0.0214840
+Turnpike Lane	primary	4.98	51.5882192	-0.1125825
+Poyser Street	unclassified	"13'3"""	51.5293942	-0.0565193
+Sunlight Square	unclassified	3.7	51.5257426	-0.0567949
+Sunlight Square	unclassified	3.7	51.5257729	-0.0565478
+	service	default	51.4887162	-0.1652178
+	service	below_default	51.4910539	-0.1537833
+Blue Fin Loading Bay	service	3.6	51.5061793	-0.0995285
+Prince of Wales Road	tertiary	"16'6"""	51.5463984	-0.1466628
+Malden Road	primary	4.7	51.3858228	-0.2532926
+	service	2.3	51.5126676	-0.0990195
+	service	4.1	51.5345564	-0.0216668
+Knatchbull Road	residential	4.3	51.4746819	-0.0968167
+High Street	secondary	4.8	51.4036897	-0.2568236
+Vantage Place	service	below_default	51.4981516	-0.1961413
+Dock Road	unclassified	"15'0"""	51.4817455	-0.3040935
+Coombe Road	secondary	4.8	51.4038207	-0.2568647
+Clinton Road	residential	"15'0"""	51.5523604	0.0234339
+	service	1.87	51.5213989	-0.0941066
+	service	1.87	51.5213858	-0.0941931
+Turnpike Lane	primary	4.98	51.5881177	-0.1128760
+	service	2	51.5733214	-0.0378167
+	service	2.3	51.5184256	0.0323660
+	service	2.1	51.5478814	-0.0063342
+Brighton Road	secondary	"15'6"""	51.3221434	-0.1365370
+	service	2.3	51.4985303	-0.1498009
+	service	2.25	51.6726524	-0.0226236
+Elmgreen Close	residential	default	51.5366370	0.0079122
+Wells Way	service	4	51.4982722	-0.1786355
+The Gardens	cycleway	4.4	51.5796452	-0.3526379
+The Gardens	tertiary	4.4	51.5795888	-0.3525763
+	service	"7'0"""	51.5694276	0.1294902
+	service	3.8	51.4988410	-0.1592570
+	service	3.8	51.4989142	-0.1586997
+	service	2.1	51.4295522	-0.1731038
+Pier Road	trunk	4.8	51.4980386	0.0599894
+Woodford Road	primary	4.9	51.5520088	0.0252897
+Thames Road	primary	"16'3"""	51.4562910	0.2005246
+	service	2.2	51.5393442	-0.0472186
+	service	2.2	51.5477008	0.0177175
+Stoats Nest Road	secondary	"14'6"""	51.3256051	-0.1286423
+	pedestrian	3.7	51.5235814	-0.1324177
+London Road	service	none	51.4055068	-0.1640743
+St. Mark's Road	residential	4.5	51.5164815	-0.2133637
+Fleet Square	residential	3.4	51.5271398	-0.1160064
+Fleet Square	residential	3.4	51.5271079	-0.1161478
+Thames Side	service	2.5	51.4133008	-0.3076537
+Dalston Lane	primary	4.8	51.5490713	-0.0608725
+Digby Road	residential	3.3	51.5471257	-0.0443434
+Government Row	residential	4.19	51.6707270	-0.0173469
+			51.5235275	-0.0603340
+			51.5271833	-0.0780547
+			51.5275886	-0.0230528
+			51.5473205	-0.0478181
+			51.5480505	-0.0476751
+			51.5265260	-0.1314179
+			51.5268959	-0.1302765
+			51.5234407	-0.1398771
+			51.5279782	0.0048204
+			51.5286584	0.0049019
+			51.5240178	-0.0603806
+			51.5089890	-0.0064789
+			51.5113021	-0.0313608
+			51.5102356	-0.0289467
+			51.5418049	-0.1383702
+			51.5419761	-0.1357834
+			51.5463715	-0.1467669
+			51.5419111	-0.1357109
+Hanger Lane	motorway_junction		51.5309591	-0.2999555
+			51.5300032	-0.2947129
+			51.5300835	-0.2946884
+			51.5355802	-0.3196892
+			51.5169073	-0.2139868
+			51.5006387	0.0019255
+			51.4936766	-0.4287749
+			51.4935387	-0.4288110
+			51.5859464	-0.2200068
+			51.5863038	-0.2202266
+			51.5871446	-0.2207205
+			51.5118043	-0.3362411
+			51.4967967	0.0020377
+			51.5243798	-0.0150990
+			51.5471697	-0.0550234
+			51.5613881	-0.2204773
+			51.5183247	-0.2069753
+			51.5571496	-0.3623110
+			51.4612188	-0.1872887
+			51.4721952	-0.1770970
+			51.4014735	-0.2679277
+			51.3906583	-0.3079825
+			51.3911394	-0.3090299
+			51.3773020	-0.2785985
+			51.5108134	-0.0685264
+			51.4439892	-0.0259402
+			51.6083712	-0.2095109
+			51.4538437	-0.0040133
+			51.4440497	-0.0260527
+			51.4441534	-0.0263847
+			51.4785337	-0.0229951
+			51.4583566	-0.0128098
+			51.4437382	-0.0263038
+			51.5661470	0.0022752
+			51.5663593	0.0025702
+			51.6585588	-0.1813807
+			51.4848725	-0.0420789
+			51.4825718	-0.0372886
+			51.4887254	-0.0576223
+			51.4867267	0.0194763
+			51.5170133	-0.1359039
+			51.5364649	-0.1047700
+			51.5363150	-0.1035568
+			51.6160483	-0.1867278
+			51.5440952	-0.0250565
+			51.5436107	-0.0254351
+			51.5432708	-0.0255776
+			51.4702712	-0.1644329
+			51.4749176	-0.1463983
+			51.5081317	-0.0076179
+			51.5081873	-0.0056683
+			51.5096652	-0.0068415
+			51.5738198	-0.0150119
+			51.5057122	-0.1154558
+			51.5007243	-0.0515681
+			51.5013828	-0.0502862
+			51.5017166	-0.0498249
+			51.5085492	-0.0483969
+			51.5343953	-0.0581063
+			51.4453435	0.0051845
+	traffic_signals		51.4062578	0.0013381
+	traffic_signals		51.4062484	0.0021162
+			51.3908686	-0.0284979
+			51.3876794	-0.0236384
+			51.4037734	-0.0552539
+	traffic_signals		51.3994935	-0.0746232
+			51.3989090	-0.0734724
+			51.3991937	-0.0740544
+			51.4734436	-0.0578680
+			51.4653620	-0.0181453
+			51.4979319	0.0597444
+			51.4951085	0.0613971
+			51.4623206	-0.0163517
+			51.4621589	-0.0167057
+			51.4664865	-0.0148225
+			51.4664325	-0.0146788
+			51.4144952	-0.1293087
+			51.4136183	-0.1305443
+			51.4123791	-0.1276333
+			51.4129671	-0.1261584
+			51.3947029	-0.0274958
+			51.3942145	-0.0273871
+			51.3937318	-0.0273497
+			51.3927250	-0.0274012
+			51.3917861	-0.0275941
+			51.3912543	-0.0280259
+			51.4598371	-0.2088627
+			51.5136236	-0.0375905
+			51.5110095	-0.0312827
+			51.5109225	-0.0302450
+			51.5120537	-0.0536390
+			51.5109212	-0.0668458
+			51.5240855	-0.0555122
+			51.5471233	-0.0419555
+			51.5467836	-0.0476662
+			51.5467875	-0.0478371
+			51.5088878	-0.0072042
+			51.4944159	-0.2339338
+			51.4920110	-0.1462792
+			51.5234118	-0.1113254
+			51.5175350	-0.0936430
+			51.5175831	-0.0979461
+			51.4073284	-0.1637641
+			51.3538542	-0.0374238
+			51.3547107	-0.0419388
+			51.3547556	-0.0417863
+			51.3543652	-0.0400649
+			51.3593017	-0.0927841
+			51.5574415	-0.3621298
+			51.5230531	-0.1408525
+			51.4637057	-0.1177472
+			51.5154249	-0.1349677
+			51.4924495	-0.1475509
+			51.3846318	-0.2622514
+			51.5345219	-0.0556985
+			51.4609098	-0.1876368
+			51.3182998	-0.1602205
+			51.3169440	-0.1604745
+			51.5565033	-0.3620494
+			51.4698126	-0.0683676
+			51.4705310	-0.0689529
+			51.5135870	-0.1115193
+			51.5216735	-0.0925560
+			51.5088330	-0.1228341
+			51.5151536	-0.1081149
+			51.5113573	-0.0785998
+			51.5176518	-0.0977828
+			51.5195812	-0.1458232
+			51.5021356	-0.1265288
+			51.5135066	-0.1224261
+			51.5128051	-0.1237079
+			51.5132105	-0.1229734
+			51.5189766	-0.2073623
+			51.4962621	-0.4567494
+			51.6221868	-0.1353242
+			51.4341354	0.1025799
+			51.6251427	-0.0610108
+			51.4477218	0.0304332
+			51.4469634	0.0307671
+			51.5334786	-0.0579543
+			51.5334733	-0.0580718
+			51.5344234	-0.0577397
+			51.5336794	-0.0579800
+			51.5166013	-0.2472667
+			51.5166562	-0.2471869
+			51.3930729	0.1391825
+			51.5128004	-0.1844726
+			51.5137865	-0.1803862
+			51.5107288	-0.0727652
+			51.5109143	-0.0727846
+	crossing		51.3634376	-0.3009970
+			51.4854914	-0.0967328
+			51.4855514	-0.0973671
+			51.4857436	-0.0956755
+			51.4861510	-0.0962347
+			51.4857546	-0.0973847
+			51.4821491	-0.0961453
+			51.4822774	-0.0952527
+			51.5125851	-0.0400354
+			51.5121832	-0.0402059
+			51.5118158	-0.0345056
+			51.5120920	-0.0345620
+			51.5099107	-0.0278065
+			51.5098106	-0.0279299
+			51.5103018	-0.0285966
+			51.4653961	-0.0111384
+			51.5144916	-0.1364393
+			51.5429775	-0.4779057
+			51.5431087	-0.4778234
+			51.5854604	-0.2197237
+			51.4719361	-0.1771473
+			51.5706947	-0.4111976
+	traffic_signals		51.5738196	-0.4133750
+	crossing		51.5729400	-0.4128302
+			51.5722460	-0.4123740
+			51.5865632	-0.2203874
+			51.4433666	-0.1555725
+	turning_circle		51.4136017	-0.3076140
+			51.5104568	-0.0444130
+			51.5042632	-0.0487858
+			51.5231961	-0.0634851
+			51.4990053	-0.1753731
+	mini_roundabout		51.4010170	0.0359181
+			51.4009469	0.0357957
+			51.4003612	0.0354695
+			51.4002065	0.0352716
+			51.4000914	0.0348755
+			51.4000246	0.0336403
+			51.3999245	0.0333398
+			51.3997854	0.0329503
+			51.3995016	0.0324662
+			51.3993402	0.0321935
+			51.3997479	0.0366361
+			51.5489059	-0.1474951
+			51.5486241	-0.1467538
+			51.4704939	-0.1644160
+	traffic_signals		51.5565044	-0.3984477
+			51.4724005	-0.1770216
+			51.3687356	-0.1652173
+			51.4086428	-0.1156539
+			51.4088362	-0.1154187
+			51.4722547	-0.2531643
+			51.3554525	-0.2112910
+			51.5576364	-0.3618429
+			51.5589016	0.2365551
+			51.5587089	0.2377726
+			51.5792321	-0.3426618
+			51.4640174	0.1819822
+			51.4645147	0.1816131
+			51.4562545	0.2021248
+			51.4561464	0.1998844
+			51.5409304	-0.3397779
+			51.5404780	-0.3394169
+		4.7	51.5369508	-0.3241905
+			51.5352545	-0.3198143
+			51.5629529	0.0094989
+			51.5767815	0.0333892
+			51.5769388	0.0338585
+Brixton			51.4632908	-0.1148312
+			51.4625734	-0.1129365
+			51.5488317	-0.1472622
+			51.5146596	-0.2142252
+			51.5442690	-0.0251185
+			51.5433547	-0.0255790
+			51.5934333	-0.2363418
+			51.5639006	-0.0412802
+			51.4977298	0.0599738
+			51.4701847	-0.0686735
+			51.4764046	-0.1420047
+			51.4706422	-0.1573390
+			51.4700217	-0.1642660
+			51.4974737	0.1212186
+			51.4569939	-0.1055625
+Shakespeare Road Modal Filter			51.4573493	-0.1051300
+			51.5239079	-0.1434834
+			51.5238896	-0.1430400
+			51.5238953	-0.1428621
+			51.4950093	0.0612083
+			51.4948379	0.0611159
+			51.4588749	0.2011094
+			51.4590217	0.1995050
+			51.4413074	0.1509071
+			51.4646471	0.1090063
+			51.4915602	0.1291245
+			51.4931473	0.1291074
+			51.4938046	0.1290902
+			51.4958138	0.1290473
+			51.4958993	0.1289529
+			51.4935374	0.1291074
+			51.4948413	0.1290730
+			51.4954932	0.1290473
+			51.4840625	0.1716706
+			51.4843336	0.1723696
+			51.4587733	0.1985668
+			51.4589364	0.2004793
+			51.4642090	0.1874860
+			51.4639996	0.1871596
+			51.4963859	0.0022249
+		4.9	51.5119479	-0.3365114
+			51.5121226	-0.3367240
+			51.4644577	0.1774043
+			51.4641903	0.1773785
+			51.4644439	0.1676618
+			51.4642812	0.1086625
+		4.8	51.5327899	-0.3078817
+			51.4647772	0.1814627
+			51.4074931	-0.2116665
+			51.3682710	-0.1648934
+			51.5926050	-0.0710326
+			51.5924681	-0.0707150
+			51.5923165	-0.0702321
+			51.5926495	-0.0712443
+			51.4751328	-0.1465268
+			51.4701607	-0.1568801
+			51.5366469	-0.3241463
+	crossing		51.5355022	-0.3197187
+		4.4	51.5357359	-0.3195706
+			51.6036556	-0.0707533
+			51.6021642	-0.0704386
+			51.4073412	0.0547625
+			51.4073750	0.0552002
+			51.4220905	0.0240061
+			51.4220966	0.0237824
+			51.5225721	-0.0753618
+			51.5272276	-0.0788672
+	crossing		51.5082332	-0.0507270
+			51.5101859	-0.0461516
+			51.5091227	-0.0480546
+			51.5079340	-0.0550399
+			51.5408604	-0.0575445
+			51.5293829	-0.0566423
+			51.5294054	-0.0563963
+			51.5311597	-0.0572279
+			51.5312485	-0.0566277
+			51.5136725	-0.0379230
+			51.5137141	-0.0381517
+			51.5480489	-0.0475590
+			51.5406988	-0.0752270
+			51.6080246	-0.3751548
+			51.6084717	-0.3741172
+			51.4912322	-0.2217084
+	crossing		51.4912817	-0.2219279
+			51.4913619	-0.2223709
+	crossing		51.5117951	-0.0536660
+			51.5107533	-0.0418513
+			51.5124009	-0.0430058
+			51.5121809	-0.0430346
+			51.5372566	-0.3242228
+			51.5361349	-0.3193423
+			51.3770994	0.0041382
+	traffic_signals		51.5380406	-0.0255866
+			51.5929318	-0.3821437
+			51.5980582	-0.3913929
+			51.4042774	-0.0557769
+		"8'6"""	51.4650934	-0.0381450
+			51.5763368	-0.3084999
+		2.08	51.5176811	-0.2891153
+			51.3995883	0.0367307
+			51.3992221	0.0369536
+			51.4005367	0.0589123
+			51.4006953	0.0590606
+			51.5744128	-0.1348279
+			51.5295482	-0.2912950
+			51.5294732	-0.2913463
+			51.4809646	-0.0530832
+			51.4809539	-0.0529169
+			51.4744002	-0.0361365
+			51.4744732	-0.0359182
+			51.4805705	-0.0309014
+			51.5394989	-0.1245995
+			51.5356213	-0.1285543
+			51.5356712	-0.1292884
+			51.5357506	-0.1295736
+			51.4867167	0.0193522
+			51.4973585	0.0025763
+			51.4970903	0.0022702
+			51.4982549	0.0024058
+			51.4990380	0.0013694
+			51.4992627	0.0017133
+			51.5027087	-0.0015763
+			51.4934855	0.0254219
+			51.5020057	-0.1915438
+			51.4901717	0.0921438
+			51.4900038	0.0920961
+			51.4132672	-0.3076576
+			51.4981076	0.1213639
+			51.4982429	0.1212537
+			51.4979577	0.1211587
+			51.4973900	0.1210863
+			51.5516238	-0.0136758
+			51.4989802	-0.1582095
+			51.3929577	0.1390992
+			51.4801854	-0.0305538
+			51.4802080	-0.0305230
+			51.4824520	-0.0375871
+			51.4815570	-0.0439861
+			51.4882162	-0.0501216
+			51.4877533	-0.0510909
+			51.4877854	-0.0513768
+			51.5545410	0.0196781
+			51.5547016	0.0200760
+			51.5550070	0.0191904
+			51.5567612	0.0173787
+			51.5559858	0.0181464
+			51.5562400	0.0189640
+			51.5521016	0.0253045
+			51.3546321	-0.0414344
+			51.3255149	-0.1284193
+			51.3255644	-0.1284668
+			51.3257399	-0.1288735
+			51.5080743	0.0454548
+			51.4826929	-0.0528729
+			51.4826879	-0.0525557
+			51.4814041	-0.0450304
+			51.4814796	-0.0445635
+			51.4797132	-0.0545321
+			51.5089178	0.0404577
+			51.5089730	0.0390833
+			51.5088791	0.0386186
+			51.5047119	0.0398139
+			51.5047181	0.0394619
+			51.3950094	-0.0275794
+			51.4870677	-0.0951512
+			51.4866607	-0.0966812
+			51.5798119	-0.3527614
+			51.5795432	-0.3525242
+			51.4634968	-0.1147301
+			51.4772116	-0.1425400
+			51.4769557	-0.1424758
+			51.4765887	-0.1422104
+			51.4762342	-0.1418113
+			51.4639168	-0.1168694
+			51.4638010	-0.1173373
+			51.4640172	-0.1168023
+			51.5853324	-0.0559504
+			51.4632214	-0.1126494
+			51.5300343	0.0048657
+			51.3859032	-0.2534127
+			51.3857425	-0.2531724
+			51.5247569	-0.0196369
+			51.5261374	-0.0227012
+			51.5276666	-0.0225553
+			51.5248904	-0.0203579
+			51.5247516	-0.0205124
+			51.5246181	-0.0205553
+			51.5243793	-0.0205044
+			51.5540133	0.0202348
+			51.5108555	-0.0685425
+			51.5207074	-0.0271343
+			51.5024265	-0.2265576
+			51.5024410	-0.2264877
+			51.3923822	-0.0274785
+			51.3939483	-0.0273734
+			51.4035801	-0.0550791
+			51.4884559	-0.0578074
+			51.5039276	-0.4067074
+			51.5039194	-0.4071690
+			51.4951672	0.0618178
+			51.4983924	0.0597209
+			51.4980200	0.0597263
+			51.4978478	0.0598034
+			51.4976848	0.0601686
+			51.5417826	-0.1355416
+			51.5481813	-0.1464734
+			51.5483200	-0.1461838
+			51.4823426	-0.0398459
+			51.5356439	-0.1290840
+			51.3178757	-0.1603264
+			51.3180218	-0.1601709
+			51.3176020	-0.1611093
+			51.3176695	-0.1610795
+			51.5098342	-0.0471713
+			51.5087279	-0.0483335
+			51.5018063	-0.0497766
+		4.1	51.5937982	-0.3381111
+			51.5844677	-0.3623616
+			51.5849166	-0.3619089
+			51.5937290	-0.3383613
+			51.3655654	-0.2994858
+			51.3652624	-0.2990212
+			51.5934703	-0.3820661
+			51.5335619	-0.1286769
+			51.5339759	-0.1272589
+			51.5335364	-0.1284414
+			51.5339117	-0.1272054
+			51.5843113	-0.0600795
+			51.5316643	-0.0194518
+			51.5315146	-0.0189773
+			51.5935700	-0.2371824
+			51.3651235	-0.2987916
+			51.4960812	-0.2729910
+			51.4955119	-0.2727839
+			51.4949893	-0.2727391
+			51.4944816	-0.2728164
+			51.4938789	-0.2731563
+			51.4936554	-0.2733089
+			51.4935669	-0.2734305
+			51.5922850	-0.0700149
+			51.5076392	0.0403338
+		4.3	51.5081918	0.0449267
+		4.3	51.5081089	0.0452395
+			51.3103350	-0.1542242
+			51.3840567	-0.2613245
+			51.4038899	-0.2568864
+			51.5081462	0.0400483
+			51.5052802	0.0398023
+			51.5052857	0.0396554
+			51.3848435	-0.2004022
+			51.3690175	-0.2941617
+			51.5447251	-0.0322448
+			51.3689429	-0.1653555
+			51.6160110	-0.1861013
+			51.5164304	-0.2132888
+			51.5030537	-0.1112867
+			51.5598485	-0.4069842
+			51.5596368	-0.4074471
+			51.5047308	-0.0059621
+	crossing		51.5175366	-0.0939383
+			51.3764683	0.0039603
+			51.5104037	-0.0448563
+	crossing		51.4943013	-0.2339612
+			51.4938881	-0.2340547
+		4.5	51.5569706	-0.3622387
+			51.5576149	-0.3623676
+			51.5114371	-0.0687422
+	traffic_signals		51.5573574	-0.3622434
+			51.3990904	-0.0738446
+	mini_roundabout		51.5034189	-0.1116374
+			51.5797581	-0.0728082
+			51.5732475	-0.4130192
+		2	51.5366491	0.0078730
+			51.5312692	-0.2983906
+			51.5310396	-0.2985094
+			51.5310250	-0.2985152
+			51.4454296	-0.3387939
+			51.5412846	-0.3401713
+			51.4635938	-0.3053527
+			51.5070187	-0.0949208
+	traffic_signals		51.5611638	-0.4121741
+			51.4496889	-0.3306115
+			51.4498021	-0.3303094
+			51.3990548	-0.0737623
+			51.4785728	-0.0541546
+			51.5473478	-0.0461613
+			51.5107915	-0.1188020
+			51.5112082	-0.1191253
+			51.5120569	-0.1188802
+			51.5131897	-0.1175641
+			51.5127387	-0.1183372
+			51.5136280	-0.1177473
+			51.5020558	0.0021515
+			51.5014948	0.0002433
+			51.5136373	-0.1154526
+			51.5136809	-0.1154377
+			51.5060624	-0.1162260
+			51.5021543	0.0300255
+			51.5660927	0.0022634
+			51.5116511	-0.1189679
+			51.5124226	-0.1186803
+			51.5128868	-0.1180943
+			51.5385484	-0.0262177
+			51.3888803	-0.0246516
+			51.3891158	-0.0253995
+			51.3895046	-0.0262146
+			51.3894934	-0.0263554
+	crossing		51.5238982	-0.1433644
+			51.5270693	-0.1368380
+			51.5272188	-0.1369930
+			51.4116681	-0.1234130
+			51.4204117	-0.1386002
+			51.4205614	-0.1389027
+			51.5193145	-0.1603327
+	crossing		51.4039920	-0.0554823
+			51.5389700	-0.1008843
+			51.4418225	-0.3673048
+			51.5343229	-0.1729328
+St John's Wood Car Park		2	51.5342147	-0.1731685
+			51.4790372	-0.0538243
+			51.5416629	-0.3020449
+			51.4986998	-0.1787217
+		4.8	51.5405129	-0.2991790
+		3.2	51.5415386	-0.3021610
+		4.648	51.5543518	-0.3044299
+			51.5602732	-0.3062682
+			51.5602590	-0.3080396
+			51.5602687	-0.3086321
+			51.5602594	-0.3084194
+			51.5011225	-0.1627232
+		2.0	51.3733930	-0.2870007
+			51.4069620	-0.1638620
+			51.4066609	-0.1640444
+			51.4064933	-0.1640457
+			51.4061880	-0.1640296
+			51.4061007	-0.1640299
+			51.3913710	-0.0278616
+			51.3914118	-0.0278308
+			51.3916747	-0.0276582
+			51.3915395	-0.0277424
+			51.5568917	0.0175380
+			51.5234142	-0.0424213
+			51.5232783	-0.0423434
+			51.5434646	-0.0255466
+			51.5738606	-0.0149544
+			51.4862133	-0.0960413
+			51.4856367	-0.0974187
+			51.4857079	-0.0974367
+		4.6	51.4856682	-0.0960030
+			51.4509008	0.1918129
+			51.4506936	0.1918489
+			51.6473610	-0.0738796
+			51.6474316	-0.0745824
+			51.4733973	-0.0573196
+	crossing		51.4734044	-0.0573611
+			51.5203847	-0.1459040
+			51.5364976	-0.1049574
+			51.5193542	-0.1333152
+			51.5173169	-0.1379165
+			51.5174391	-0.1376927
+			51.5224729	-0.1400865
+			51.5224835	-0.1402391
+			51.5224669	-0.1401639
+			51.5228579	-0.1392339
+			51.5228095	-0.1392598
+			51.5228332	-0.1392459
+			51.5221965	-0.1380399
+			51.4816335	-0.0426353
+			51.5565507	-0.3983740
+			51.4897857	-0.1223518
+			51.4897276	-0.1218733
+			51.5006043	-0.1164618
+		3.2	51.5363527	-0.1038574
+			51.5390195	-0.1008556
+			51.5056834	-0.0071023
+			51.4981634	0.0023978
+			51.5102674	-0.0457785
+			51.5099584	-0.0468878
+			51.5086709	-0.0483657
+			51.5094824	-0.0476793
+			51.5016670	-0.0498678
+			51.5017646	-0.0497954
+			51.5041022	-0.0488233
+			51.5041619	-0.0488046
+			51.5042119	-0.0487911
+			51.6077547	-0.2089406
+Baynard House Car Park		1.85	51.5118468	-0.1000953
+			51.4974534	0.0020276
+			51.4968789	0.0021857
+			51.4914585	-0.1205271
+			51.4913497	-0.1199868
+			51.4646150	0.0999703
+			51.4644709	0.1000370
+			51.4719930	-0.1771282
+			51.4723740	-0.1769000
+			51.4722076	-0.1769900
+			51.5148768	-0.2161183
+			51.5166344	-0.2135872
+			51.5150358	-0.2173006
+			51.5130179	-0.1177803
+			51.4848674	0.1737856
+			51.4846174	0.1733964
+			51.4844696	0.1730519
+			51.4844223	0.1726420
+			51.4959187	0.1288239
+			51.4126706	-0.1269323
+			51.5467975	-0.0550738
+			51.5619784	-0.4130023
+			51.4127685	-0.1266718
+			51.4141155	-0.1299086
+			51.4139759	-0.1300937
+			51.3996848	0.0327815
+			51.3995764	0.0325813
+			51.4001271	0.0363925
+			51.4008536	0.0592183
+			51.4047777	0.0586812
+			51.4199050	0.0227313
+			51.4044717	0.0582194
+			51.4394725	0.1452299
+			51.5300486	-0.0213359
+			51.4411212	0.1511501
+			51.5115673	-0.0065622
+			51.5114900	-0.0068143
+			51.5114556	-0.0068945
+			51.5113493	-0.0070504
+			51.5112468	-0.0071115
+			51.5110812	-0.0071115
+			51.5106598	-0.0070021
+			51.5103877	-0.0069238
+			51.5101143	-0.0068798
+			51.4467387	0.0308443
+			51.4464177	0.0308787
+			51.4461449	0.0309044
+			51.4457503	0.0309866
+			51.5088294	0.0384453
+			51.5087865	0.0383573
+			51.5086491	0.0384335
+			51.5086343	0.0385443
+			51.5085886	0.0392470
+			51.4804951	-0.0311753
+			51.4803830	-0.0303560
+			51.4803259	-0.0303707
+			51.5017222	-0.4253951
+			51.5236622	-0.0639480
+			51.5232543	-0.0641019
+			51.5237030	-0.0633226
+			51.5239032	-0.0603622
+			51.5240832	-0.0583881
+			51.5237014	-0.0582994
+			51.4787054	-0.0260525
+			51.4783417	-0.0229660
+			51.5188387	-0.2072846
+			51.4539362	-0.0037635
+			51.4540296	-0.0035534
+			51.4827262	-0.0368612
+			51.4826712	-0.0370314
+			51.5846828	-0.2190516
+			51.5524510	-0.2487319
+			51.5523336	-0.2486890
+			51.5077277	-0.1427349
+			51.5078477	-0.1424621
+			51.5130937	-0.1176436
+			51.5364930	-0.1049309
+			51.4480223	0.0303260
+			51.5133955	-0.1815510
+			51.5734143	-0.2944592
+			51.5733604	-0.2953317
+			51.5733739	-0.2957708
+			51.5736359	-0.0152677
+			51.5271580	-0.1159248
+			51.5271216	-0.1160881
+			51.5348788	-0.0541802
+			51.5232281	-0.1387514
+			51.5225248	-0.1355916
+			51.5222484	-0.1378056
+			51.4877768	-0.1227186
+			51.4877605	-0.1222511
+			51.5109638	-0.0668514
+			51.3945397	-0.0274250
+			51.4938037	-0.1454212
+			51.5161675	-0.1787564
+			51.5160142	-0.1785187
+			51.5148548	-0.1546059
+			51.4506073	-0.0947257
+			51.5614517	-0.2810866
+	crossing		51.5796038	-0.3526012
+		4.4	51.5797114	-0.3526967
+			51.5799444	-0.3528445
+		2.2	51.5677310	-0.3552611
+			51.5679914	-0.3555911
+			51.5614554	-0.2812884
+			51.5614562	-0.2814738
+			51.5617683	-0.2811871
+	crossing		51.5617629	-0.2814722
+		4.87	51.5764184	-0.3084285
+	traffic_signals		51.5573679	-0.3624150
+			51.4945483	0.0611604
+			51.5429022	-0.4779443
+			51.4016268	-0.2684236
+	traffic_signals		51.5468428	-0.0550631
+			51.4641630	-0.2102843
+			51.5105673	-0.0727466
+			51.5334805	-0.0579056
+			51.5334898	-0.0576939
+			51.5377663	-0.0582511
+			51.5348666	-0.0541290
+			51.5583155	-0.2122344
+			51.5484988	-0.1283606
+			51.5474652	-0.1298041
+			51.5525800	-0.2488271
+			51.5217182	-0.0921412
+			51.3980333	-0.0425700
+			51.3983975	-0.0422340
+			51.3984678	-0.0422340
+			51.3985291	-0.0422603
+			51.5471904	-0.0476535
+			51.5472990	-0.0476470
+			51.5471928	-0.0478468
+			51.5107673	-0.0303673
+			51.5105348	-0.0289988
+			51.5246257	-0.0152694
+			51.5244232	-0.0194224
+			51.5207709	-0.0274437
+			51.5244364	-0.0205236
+			51.5259859	-0.0223887
+			51.5245191	-0.0151865
+			51.5241672	-0.0564898
+			51.5239460	-0.0564860
+			51.5243289	-0.0554827
+			51.4980359	-0.0731809
+			51.4981020	-0.0724166
+			51.5039851	0.0710848
+			51.5040683	0.0708244
+			51.5207032	-0.1515866
+			51.5208199	-0.1510410
+			51.5206979	-0.1516986
+		4.6	51.5649203	-0.3526146
+			51.5357125	-0.1294431
+			51.4653521	-0.0111508
+			51.4581461	-0.0130238
+			51.4199875	0.0225220
+			51.5115827	-0.0786494
+			51.3875531	-0.0236607
+			51.3878204	-0.0236206
+			51.4630031	-0.1126167
+			51.4628038	-0.1126503
+			51.4628614	-0.1126447
+			51.4626744	-0.1127596
+			51.5116411	-0.0786264
+			51.5236050	-0.1271037
+			51.5120911	-0.1621715
+			51.5119991	-0.1622294
+			51.5121230	-0.1621052
+			51.5121457	-0.1619767
+			51.5119104	-0.1622184
+			51.5090220	-0.1592294
+			51.5093755	-0.1566577
+			51.5092205	-0.1593074
+			51.5114928	-0.1601999
+			51.5090415	-0.1590968
+			51.5171562	-0.1360122
+			51.5118633	-0.1167378
+			51.5136532	-0.1115480
+			51.5630640	0.0095571
+			51.5150068	-0.1080815
+			51.5150361	-0.1076931
+"Tudor Street Gate, Temple"			51.5125557	-0.1084348
+			51.5125739	-0.1087831
+			51.5125557	-0.1087545
+			51.5144072	-0.1363715
+			51.5480183	-0.1470944
+			51.5043896	-0.0000695
+			51.5035482	0.0013145
+			51.5030680	0.0017753
+			51.5931479	-0.2350508
+			51.5251160	-0.0952082
+			51.5251519	-0.0949760
+			51.5251961	-0.0946226
+			51.5252199	-0.0944527
+			51.4921913	-0.2215517
+		1.98	51.4636427	-0.3055315
+			51.5485030	-0.1471923
+			51.5143311	-0.1325870
+			51.5112103	-0.0686537
+			51.5113680	-0.0669037
+			51.5080001	0.0391528
+			51.4976210	-0.0987160
+			51.5025840	-0.1531188
+			51.5437482	-0.1662480
+			51.5436518	-0.1662197
+			51.5436642	-0.1661182
+			51.5433517	-0.1660196
+			51.5432792	-0.1666139
+			51.5435917	-0.1667125
+			51.5850456	-0.2194042
+			51.5187119	-0.1370091
+			51.4918888	-0.1192765
+			51.5174540	-0.0936913
+			51.5158410	-0.2219517
+			51.4977757	-0.1547191
+			51.4978936	-0.1548983
+			51.5931943	-0.2352408
+			51.5874877	-0.2208945
+			51.5855336	-0.2197808
+			51.5084915	-0.1389985
+			51.5085912	-0.1390800
+			51.4066733	-0.1640380
+			51.4064220	-0.1640426
+			51.5151866	-0.1258369
+			51.5230269	-0.0753402
+			51.5229050	-0.0753570
+			51.5227715	-0.0753623
+			51.5569054	-0.3977312
+			51.4562668	0.2004629
+			51.4562416	0.2016753
+			51.4561778	0.2007663
+			51.4562433	0.2014473
+			51.4561380	0.2002671
+			51.5120262	-0.0417876
+		1.98	51.5792862	-0.3426356
+			51.5466012	-0.2044599
+	crossing		51.5176767	-0.0935836
+			51.5368534	-0.3223674
+			51.5363474	-0.3203747
+			51.5372585	-0.3239463
+			51.5369259	-0.3224938
+			51.5366495	-0.3214960
+			51.5371022	-0.3233070
+			51.5361930	-0.3195459
+			51.5366639	-0.3216740
+			51.5370893	-0.3231295
+			51.5363007	-0.3202144
+			51.5362057	-0.3197964
+			51.5303170	-0.2961763
+			51.5088150	-0.1228927
+			51.5088261	-0.1230404
+			51.5088178	-0.1229717
+			51.5088166	-0.1231022
+			51.4613027	-0.1872271
+			51.5472357	-0.0460838
+			51.5469087	-0.0458227
+The New Blackwall Tunnel			51.5091084	-0.0065727
+			51.5090319	-0.0071436
+			51.5284392	0.0047913
+			51.5285446	0.0048566
+			51.4835451	-0.1706612
+			51.4835765	-0.1705578
+			51.4742790	-0.4867162
+			51.4740326	-0.4813464
+			51.4740008	-0.4870093
+			51.4742552	-0.4815353
+			51.4743078	-0.4830192
+			51.4743018	-0.4854045
+			51.4741267	-0.4869663
+			51.4743139	-0.4818369
+			51.4742107	-0.4814598
+			51.4735857	-0.4813424
+			51.4741769	-0.4869192
+			51.4742548	-0.4867848
+			51.4740968	-0.4813640
+			51.4743109	-0.4822423
+			51.4746367	-0.0970533
+			51.4747271	-0.0965801
+			51.5133796	-0.1176225
+			51.5483271	-0.4002075
+			51.5339713	-0.1272728
+			51.5356202	-0.1287806
+			51.5356237	-0.1288860
+			51.5517377	0.0252406
+			51.5037329	-0.2796549
+			51.5037394	-0.2797706
+			51.4126476	-0.1270071
+			51.4990597	-0.1753645
+			51.5134991	-0.1627363
+			51.4827390	-0.1859076
+			51.4827677	-0.1859606
+			51.4846286	-0.1838428
+			51.4845606	-0.1837476
+			51.4857654	-0.1477320
+			51.5120574	-0.1004448
+			51.5119630	-0.1004667
+			51.5118526	-0.1004800
+			51.5215992	-0.1645426
+			51.5216479	-0.1643649
+			51.4841618	-0.1768350
+			51.4922713	-0.1469797
+			51.4891937	-0.1657514
+			51.4891612	-0.1658927
+			51.4925161	-0.1633169
+			51.4924602	-0.1632279
+			51.4892384	-0.1652548
+			51.4892069	-0.1653919
+			51.5238770	-0.1665433
+			51.5239169	-0.1666030
+			51.5240342	-0.1662811
+			51.5240586	-0.1663146
+			51.5190059	-0.1616827
+			51.5189803	-0.1618275
+			51.5093786	-0.1973702
+			51.5093687	-0.1974900
+			51.4945272	-0.1900708
+			51.5576922	-0.3624494
+			51.5020177	-0.1914009
+			51.4994866	-0.1981700
+			51.5977534	-0.3916878
+			51.5978930	-0.3916016
+			51.5806695	-0.0726335
+		2.7	51.5979635	-0.3915338
+			51.5085633	0.0391490
+			51.5087052	0.0383489
+			51.5085514	0.0391025
+			51.5085615	0.0389851
+			51.5086679	0.0383826
+			51.5089923	0.0394888
+			51.4703186	-0.1644539
+			51.5301457	0.0050505
+			51.5284936	0.0047999
+			51.5299912	0.0048108
+			51.5285992	0.0048834
+			51.4949279	0.0611377
+			51.4947569	0.0611112
+			51.5150442	-0.2011861
+			51.5151247	-0.1999600
+			51.5151905	-0.1999813
+			51.5149709	-0.2011634
+			51.4780993	-0.0176733
+			51.4778686	-0.0176614
+			51.4998598	-0.1570644
+			51.4999034	-0.1568187
+			51.5508995	-0.0185563
+			51.5510134	-0.0176750
+			51.4921733	-0.1466897
+			51.4941838	-0.1444108
+			51.4939430	-0.1447480
+			51.4937490	-0.1455071
+			51.4938949	-0.1453697
+			51.4938970	-0.1449367
+			51.4940293	-0.1445905
+			51.4942447	-0.1443465
+			51.4938849	-0.1450425
+			51.4943207	-0.1444026
+			51.4943366	-0.1450239
+			51.4944225	-0.1447593
+			51.4942907	-0.1443411
+			51.4939542	-0.1447059
+			51.4942948	-0.1450546
+			51.4938999	-0.1449111
+			51.4944568	-0.1449044
+			51.4944512	-0.1448535
+			51.4941751	-0.1444209
+			51.4938155	-0.1454058
+			51.4942033	-0.1451267
+			51.4944426	-0.1449459
+			51.4939908	-0.1452942
+			51.4938824	-0.1452028
+			51.4940776	-0.1452258
+			51.4940462	-0.1445709
+			51.3367765	-0.1147622
+			51.3369838	-0.1150760
+			51.3254703	-0.1284111
+			51.3255469	-0.1284452
+			51.5010146	-0.1893935
+			51.5009959	-0.1895026
+			51.5855261	-0.0559986
+			51.5854571	-0.0559975
+			51.5038175	0.0422348
+			51.5040361	0.0420026
+			51.5048172	0.0395500
+			51.5048292	0.0397567
+			51.5086521	0.0402841
+			51.5081409	0.0401875
+			51.5089841	0.0399511
+			51.5087894	0.0403290
+			51.5089236	0.0400585
+			51.5087981	0.0401309
+			51.5088699	0.0401037
+			51.5087090	0.0401285
+			51.5089867	0.0398425
+			51.5089872	0.0396990
+			51.5087430	0.0403084
+			51.5089198	0.0387977
+			51.5087434	0.0383445
+			51.5089830	0.0393033
+			51.6177216	-0.0652650
+			51.6177189	-0.0653754
+			51.6251887	-0.0612464
+			51.3538370	-0.0375688
+			51.3538350	-0.0377424
+			51.3538613	-0.0379208
+			51.3545842	-0.0408808
+			51.3546714	-0.0412736
+			51.3544814	-0.0404752
+			51.3547886	-0.0420050
+			51.3540965	-0.0391009
+			51.4815957	-0.0437036
+			51.5275687	-0.0231426
+			51.4735171	-0.4813405
+			51.5179702	-0.1322505
+			51.5180573	-0.1320130
+			51.5177780	-0.2890923
+			51.5178795	-0.2890118
+			51.5179989	-0.2888832
+			51.5180749	-0.2887949
+			51.4975595	-0.1263925
+Abingdon Street Car Park			51.4978692	-0.1263922
+			51.3555474	-0.1933606
+			51.5181636	-0.2886774
+			51.3554000	-0.2115560
+			51.5089160	-0.0482209
+			51.5103422	-0.0453338
+			51.5086085	-0.0483866
+			51.5100669	-0.0465788
+	crossing		51.5800199	-0.0727577
+			51.5132790	-0.1175711
+			51.5111119	-0.1190861
+			51.5093098	-0.0478722
+			51.5096784	-0.0474278
+			51.5014845	-0.0501038
+			51.5015738	-0.0499697
+			51.5039160	-0.4069720
+			51.5068133	-0.1230802
+			51.5072534	-0.1227128
+			51.3847423	-0.2624818
+			51.5111761	-0.0785418
+			51.4951434	0.0615901
+			51.5580887	-0.2127154
+			51.5452767	-0.2019225
+			51.5004060	-0.1602247
+			51.5004213	-0.1600873
+			51.4922364	-0.2215771
+			51.5206333	-0.1462901
+			51.5207200	-0.1463306
+			51.5207879	-0.1463644
+			51.5238869	-0.0603595
+			51.3691171	-0.1655001
+			51.5125571	-0.1084001
+			51.5517031	-0.0132143
+			51.5158628	-0.1599717
+			51.5158808	-0.1598477
+			51.4786336	-0.0543028
+			51.4727552	-0.4550002
+			51.4740942	-0.4531058
+			51.4740921	-0.4530183
+			51.4740891	-0.4528858
+			51.4740870	-0.4527971
+			51.4795583	-0.4528474
+			51.4795683	-0.4529190
+			51.4795880	-0.4530480
+			51.4796009	-0.4531270
+			51.4797707	-0.4531413
+			51.4797709	-0.4530504
+			51.4797711	-0.4529224
+			51.4797712	-0.4528461
+			51.5022469	-0.1116782
+			51.5026257	-0.1110610
+			51.5026756	-0.1110231
+			51.5027596	-0.1110299
+			51.5028630	-0.1111090
+			51.5030439	-0.1112757
+			51.5033556	-0.1116273
+			51.5123237	-0.0436674
+			51.5070398	-0.0951709
+		3.9	51.6177342	-0.0654993
+			51.4803762	-0.2830668
+			51.4803043	-0.2829703
+			51.5930995	-0.2348597
+			51.5234683	-0.1115588
+			51.4950788	0.0050053
+			51.4951947	0.0045115
+			51.5122596	-0.1188057
+			51.5131348	-0.1175963
+			51.5125714	-0.1185429
+			51.5135634	-0.1788400
+			51.5136309	-0.1789524
+			51.5111998	-0.0785434
+			51.5113021	-0.0785823
+	crossing		51.3634854	-0.3010056
+			51.3634038	-0.3021756
+			51.5126709	-0.1853958
+			51.5215150	-0.0733912
+			51.4590250	0.1997179
+			51.5414204	-0.3022884
+			51.5045779	-0.2250342
+			51.5046291	-0.2248121
+			51.5048710	-0.2250600
+			51.5049095	-0.2248694
+			51.5379603	-0.1275506
+			51.5380907	-0.1275586
+			51.5382306	-0.1274593
+			51.3633550	-0.3021647
+			51.4455125	0.0057783
+			51.4973400	0.0021852
+			51.4973692	0.0021187
+			51.4973153	0.0023603
+			51.4073349	0.0549607
+			51.4073541	0.0550871
+			51.4178244	-0.3826284
+			51.4180704	-0.3823048
+			51.5247768	-0.0902835
+			51.5247505	-0.0904620
+			51.5221563	-0.0818375
+			51.5163810	-0.4010696
+			51.4124405	-0.1275828
+			51.4124782	-0.1274942
+			51.4142277	-0.1297718
+			51.5272036	-0.0784699
+			51.5220781	-0.0818376
+			51.3546866	-0.0418252
+			51.3547305	-0.0416702
+			51.4637012	-0.3057625
+			51.5934636	-0.2365282
+			51.4989458	-0.1761227
+			51.4803453	-0.0304312
+			51.4128603	-0.1264355
+			51.4129256	-0.1262493
+			51.4649874	-0.0381319
+			51.4087472	-0.1155244
+			51.6223648	-0.1356740
+	crossing		51.3547633	-0.0424063
+			51.5080047	-0.0076075
+			51.5025414	0.0020554
+			51.5083829	-0.0075599
+			51.5038139	0.0009841
+			51.5064027	-0.0037586
+			51.5032927	0.0016106
+			51.5060214	-0.0031685
+			51.5028369	0.0019347
+			51.5007201	-0.1164250
+			51.5009594	-0.1161143
+			51.4925512	-0.2300598
+			51.4925834	-0.2300545
+			51.4944698	-0.2303918
+			51.4974181	0.0026176
+			51.4975807	0.0026150
+Brondesbury Station			51.5451775	-0.2018043
+			51.5453312	-0.2019756
+			51.5245076	-0.0565041
+			51.5245240	-0.0573246
+			51.5246402	-0.0565228
+			51.5249208	-0.0565793
+			51.5253126	-0.0566874
+			51.5401349	-0.0581813
+			51.4887984	-0.1226339
+			51.4887585	-0.1221824
+			51.4847695	-0.1230859
+			51.4950200	-0.1159337
+			51.4855539	-0.1234035
+			51.4951201	-0.1163579
+			51.5516551	-0.0174613
+			51.5203105	-0.1436354
+			51.4979594	0.1213052
+			51.5794026	-0.3428217
+			51.5795809	-0.3425509
+			51.5796184	-0.3425450
+			51.5796255	-0.3427467
+			51.4416561	-0.3667371
+			51.4846818	-0.1231531
+			51.4847898	-0.1231467
+			51.4848460	-0.1232007
+			51.3548142	-0.0422139
+			51.4988966	-0.1587330
+			51.4989472	-0.1582560
+			51.5020305	-0.1119444
+			51.5021701	-0.1118000
+			51.5024193	-0.1114138
+			51.5027106	-0.1110171
+			51.5028155	-0.1110675
+			51.4857799	-0.1469510
+			51.4503305	-0.1003545
+			51.5044060	-0.0487728
+			51.5061304	-0.0486164
+Edinburgh Gate			51.5022862	-0.1622703
+			51.5572692	-0.3623812
+			51.5574132	-0.3621747
+	give_way		51.5575270	-0.3624240
+	crossing		51.5575085	-0.3621735
+			51.3998838	0.0332259
+			51.3924669	0.0022171
+			51.5511908	-0.0163429
+			51.4985645	0.0022307
+			51.4983655	0.0025336
+			51.4986991	0.0023907
+			51.4983160	0.0024434
+			51.5518997	-0.0121102
+			51.5091395	-0.0071050
+			51.5098028	-0.0068465
+			51.5112938	-0.0070916
+			51.5111707	-0.0071250
+			51.5097984	-0.0068775
+			51.5096098	-0.0068238
+			51.5082585	-0.0076020
+			51.3988885	-0.0734280
+			51.5203467	-0.1461097
+			51.5205407	-0.1468179
+			51.5206287	-0.1468615
+			51.5222473	-0.1632498
+			51.5223133	-0.1628659
+			51.5221836	-0.1630829
+			51.5222014	-0.1629904
+			51.5124431	-0.0401035
+			51.5271308	-0.0366867
+			51.5271374	-0.0366595
+			51.5271810	-0.0365292
+			51.5272624	-0.0368206
+			51.5273444	-0.0367064
+			51.5119914	-0.0345606
+			51.6084837	-0.2096302
+			51.5864512	-0.0026916
+			51.5150693	-0.2175633
+			51.4406771	-0.1040422
+			51.5867882	-0.2205251
+			51.5850030	-0.2193601
+			51.5878634	-0.2200929
+			51.5877872	-0.2205145
+			51.5881635	-0.2207210
+			51.5878571	-0.2205969
+	crossing		51.5113939	-0.0069991
+	traffic_signals		51.5114132	-0.0069712
+	traffic_signals		51.5103070	-0.0069067
+			51.5127982	-0.0081114
+	traffic_signals		51.5129690	-0.0079944
+			51.5131269	-0.0079421
+			51.5130284	-0.0079662
+			51.5133439	-0.0079101
+			51.4919914	-0.1196274
+			51.4914615	-0.1216986
+			51.4915757	-0.1216413
+			51.4918505	-0.1191770
+			51.5092662	-0.0066699
+			51.5091748	-0.0066183
+			51.5090590	-0.0071349
+	traffic_signals		51.4987199	0.0015001
+			51.4973180	0.0022665
+			51.4984518	0.0015778
+			51.4951351	0.0047274
+			51.4986381	0.0022626
+			51.4966005	0.0021028
+	traffic_signals		51.4982237	0.0016436
+	traffic_signals		51.4978074	0.0017635
+			51.4967119	0.0020608
+	traffic_signals		51.4964585	0.0021752
+			51.4975302	0.0026310
+			51.4969589	0.0021965
+			51.4971675	0.0023542
+			51.4972608	0.0024674
+			51.4955054	-0.4574178
+			51.4988990	0.0014269
+			51.4989871	0.0013908
+			51.4974739	0.0026365
+			51.4974081	0.0020664
+			51.4970232	0.0022196
+			51.5447123	-0.0318474
+			51.5186411	-0.1025185
+			51.5191465	-0.1029117
+			51.4979015	0.0024954
+			51.4921943	-0.1467416
+			51.4627362	-0.1126921
+			51.3885051	-0.0235242
+			51.3885147	-0.0238121
+			51.5158225	-0.2217911
+			51.5157423	-0.2215693
+			51.5113378	-0.1191067
+			51.5367385	-0.3241596
+	crossing		51.5367603	-0.3241628
+			51.4752104	-0.1466041
+			51.4750322	-0.1464643
+			51.4748170	-0.1463890
+			51.5491591	-0.0606418
+			51.4639620	-0.1168169
+			51.4639343	-0.1168373
+			51.5135107	-0.1626430
+			51.5339998	-0.1270543
+			51.5619550	-0.2209549
+			51.5316671	-0.2423820
+			51.5317005	-0.2427682
+			51.5318748	-0.2440672
+			51.5316838	-0.2429077
+			51.5316237	-0.2431115
+			51.5315970	-0.2407539
+			51.5316337	-0.2432349
+			51.5315707	-0.2413484
+			51.5316004	-0.2404025
+			51.5316609	-0.2433891
+			51.5317277	-0.2437217
+			51.5316040	-0.2416645
+			51.5315586	-0.2411481
+			51.5865146	-0.0027955
+			51.3928973	0.1390108
+			51.3931859	0.1392766
+			51.5140715	-0.1094181
+			51.4686525	-0.0318300
+			51.5065887	-0.0721576
+			51.5065317	-0.0719267
+			51.5214519	-0.1624473
+			51.5213986	-0.1627414
+			51.5215756	-0.1240462
+			51.5216505	-0.1238707
+			51.4977765	0.0598859
+			51.4976959	0.0600843
+			51.5390308	-0.1260817
+			51.5386626	-0.1270568
+			51.5385730	-0.1271893
+		3.5	51.5311422	-0.2984511
+			51.5328835	-0.3076334
+			51.5768672	0.0336871
+	traffic_signals		51.5447151	-0.0319340
+			51.4703661	-0.1644511
+			51.4704058	-0.1644405
+			51.4704683	-0.1644199
+			51.4705248	-0.1644180
+			51.4682367	-0.1631905
+			51.5731468	-0.0380432
+			51.5732466	-0.0378532
+			51.5732933	-0.0384137
+			51.5733705	-0.0373058
+			51.5733540	-0.0378216
+			51.5732487	-0.0382227
+			51.5732887	-0.0381782
+			51.5733986	-0.0380246
+			51.5734764	-0.0374724
+			51.5734961	-0.0374108
+			51.5735013	-0.0377262
+			51.5735511	-0.0375074
+			51.5602116	-0.3101995
+			51.5601342	-0.3110257
+			51.5602876	-0.3089986
+			51.5602876	-0.3091327
+			51.5601651	-0.3106954
+Woolwich Ferry South Pier			51.4951557	0.0624525
+			51.5125817	-0.0414403
+			51.5126550	-0.0400086
+			51.4802310	-0.0304565
+			51.4802591	-0.0305176
+			51.5560448	0.0184470
+	crossing		51.4411942	0.1510568
+			51.5729152	-0.0379456
+	traffic_signals		51.5238948	-0.1433039
+			51.5238912	-0.1431906
+			51.5733594	-0.2968289
+			51.5733625	-0.2966049
+			51.5733640	-0.2954480
+			51.5733662	-0.2963293
+			51.5733686	-0.2955989
+			51.5733697	-0.2960811
+			51.5733728	-0.2958521
+			51.5765472	-0.3083209
+			51.5149321	-0.2165332
+			51.5228986	-0.1380369
+			51.5081473	0.0391861
+			51.4636539	0.1821010
+			51.4638332	0.1821272
+			51.4638965	0.1820872
+			51.4587911	0.1986332
+			51.4590059	0.1994334
+			51.4590301	0.1996109
+			51.5424199	0.0046631
+			51.5422895	0.0046711
+			51.5231579	-0.1386742
+			51.5145163	-0.1725358
+			51.5144547	-0.1726460
+			51.5118466	-0.0999938
+			51.5118466	-0.1000394
+			51.5177417	-0.1341212
+			51.5177908	-0.1339883
+			51.5179337	-0.1357851
+			51.5179690	-0.1356466
+			51.4951785	0.0621301
+			51.6473884	-0.0743436
+			51.5095994	-0.2245366
+			51.4727718	-0.1767892
+			51.5418638	-0.1356349
+			51.5416788	-0.1354259
+			51.5104437	-0.0289829
+			51.4844609	0.1729117
+			51.4844863	0.1731292
+			51.5020566	-0.1528077
+			51.5520485	0.0252956
+			51.5203700	-0.1359262
+			51.5208364	-0.1363923
+			51.5209356	-0.1365017
+			51.4940470	-0.1556642
+			51.4941031	-0.1555772
+			51.5112932	-0.0686861
+			51.3690329	-0.2953021
+			51.5272881	-0.0368241
+			51.4725700	-0.1769439
+			51.4722981	-0.1770729
+			51.4722654	-0.1769531
+			51.4721038	-0.1770517
+			51.4721082	-0.1771204
+			51.4725493	-0.1768355
+			51.5202087	-0.0954867
+			51.5203920	-0.0955744
+			51.4631870	-0.1126425
+			51.5514769	-0.0174216
+			51.5515629	-0.0174477
+			51.5513676	-0.0173957
+			51.5467354	-0.2041792
+			51.5149059	-0.1770194
+			51.5149681	-0.1771110
+			51.3634254	-0.3011434
+	crossing		51.4947809	-0.2727576
+	crossing		51.4953980	-0.2727552
+	crossing		51.4960317	-0.2729607
+			51.4527223	-0.0909140
+			51.5030503	-0.4004466
+			51.5032556	-0.4004927
+			51.5145988	-0.1311342
+			51.5146490	-0.1309281
+			51.4436294	-0.1547064
+			51.4976666	0.1211145
+			51.4742184	-0.4868634
+			51.4740675	-0.4869992
+			51.5121658	-0.0436684
+			51.5142737	-0.1328175
+			51.5304744	-0.0217763
+			51.5307489	-0.0220602
+			51.4341689	-0.0186312
+			51.4343802	-0.0188145
+			51.4346023	-0.0189881
+			51.4348514	-0.0192015
+			51.4349236	-0.0191834
+			51.4349585	-0.0191256
+			51.4350318	-0.0183501
+			51.4131296	-0.3051300
+			51.4132036	-0.3051467
+			51.5112214	-0.0854144
+			51.5391440	-0.1257532
+			51.5392171	-0.1255256
+			51.5393677	-0.1250211
+	crossing		51.5394389	-0.1247768
+	give_way		51.5394670	-0.1246888
+			51.5143801	-0.1428928
+			51.5144415	-0.1429210
+			51.5141603	-0.1427800
+			51.5142125	-0.1428067
+			51.4149602	-0.3130509
+			51.4148365	-0.3130208
+			51.4417132	-0.3390049
+			51.4416891	-0.3391363
+	give_way		51.5484665	-0.1284034
+			51.4526757	-0.0907155
+			51.4965189	0.0021444
+			51.6029815	-0.0707778
+			51.6029927	-0.0706500
+			51.6036411	-0.0708704
+			51.6053689	-0.0710021
+			51.6053840	-0.0711179
+			51.5471186	-0.0550057
+			51.5485715	-0.0659432
+			51.5486853	-0.0659607
+		"7'0"""	51.6585541	-0.1812855
+			51.5481031	-0.1466946
+			51.5016397	-0.1590887
+			51.5016801	-0.1586330
+			51.5017215	-0.1591089
+			51.5017497	-0.1586401
+			51.5017658	-0.1586521
+			51.5017524	-0.1590854
+			51.5017751	-0.1586802
+			51.5017782	-0.1590400
+London Park Towers Hotel			51.5017772	-0.1588487
+			51.4453697	-0.3386373
+			51.5602598	-0.3095196
+			51.5602716	-0.3064686
+		2	51.5602723	-0.3063786
+			51.4849264	-0.2783014
+			51.5312292	-0.0567359
+			51.5565252	-0.3619275
+			51.5566081	-0.3619687
+			51.5566740	-0.3619981
+			51.5567536	-0.3620287
+		4.5	51.5570809	-0.3621586
+			51.5571199	-0.3621711
+			51.5571530	-0.3621790
+			51.5571900	-0.3621838
+			51.5571997	-0.3623203
+			51.5572177	-0.3623563
+			51.5572239	-0.3621781
+			51.5572395	-0.3623155
+			51.5572577	-0.3621645
+			51.5572848	-0.3622995
+			51.5572866	-0.3621437
+			51.5573149	-0.3624016
+			51.5573217	-0.3622763
+			51.5573220	-0.3621076
+			51.5573855	-0.3620257
+	crossing		51.5574115	-0.3624186
+	crossing		51.5575086	-0.3620398
+	traffic_signals		51.5575354	-0.3622250
+			51.5575613	-0.3624349
+			51.5575857	-0.3623195
+			51.5576021	-0.3624554
+			51.5576475	-0.3624060
+			51.5137215	-0.1147764
+			51.5040550	-0.1499937
+			51.5040843	-0.1499052
+			51.5042730	-0.1493336
+			51.5042929	-0.1492731
+			51.5045464	-0.1496165
+			51.5045724	-0.1495598
+	crossing		51.4724436	-0.1769995
+	crossing		51.4724722	-0.1768639
+			51.3730819	-0.2866488
+			51.3593100	-0.0926520
+			51.5385636	0.0819003
+Barking Stn			51.5390236	0.0810018
+			51.5421424	-0.3370158
+			51.5422195	-0.3373320
+			51.4923217	-0.2215798
+			51.4922663	-0.2200153
+			51.4922023	-0.2202492
+			51.4923526	-0.2215610
+			51.4923641	-0.2202636
+			51.4923610	-0.2215074
+			51.5023590	-0.2268951
+			51.4705461	-0.1644245
+			51.4729464	-0.1767833
+			51.5006321	-0.1164489
+			51.5006601	-0.1164418
+			51.5007515	-0.1164077
+			51.5007837	-0.1163807
+			51.5008110	-0.1163422
+			51.5009817	-0.1160885
+			51.5010046	-0.1160699
+			51.5010331	-0.1160581
+			51.5010528	-0.1160583
+			51.5011172	-0.1160529
+			51.5258693	-0.1290069
+			51.5259344	-0.1288640
+			51.5059678	-0.1160180
+			51.5236442	-0.0639523
+			51.5135803	-0.1150849
+			51.5471564	-0.0478409
+			51.5473147	-0.0476456
+			51.5471572	-0.0476533
+			51.5471450	-0.0550092
+			51.5259365	-0.1295817
+			51.5259908	-0.1294662
+			51.5187685	-0.1370591
+			51.6726520	-0.0227001
+			51.5147079	-0.1626552
+			51.5146473	-0.1627623
+			51.5649764	-0.3525432
+			51.5016032	-0.4255032
+			51.5015374	-0.4256170
+			51.5018122	-0.4253321
+			51.4645984	0.1676922
+			51.4647251	0.1726216
+			51.4642008	0.1725911
+			51.5479081	-0.0477049
+Longley Way			51.5615391	-0.2206045
+			51.5149735	-0.1991852
+			51.5149902	-0.1990584
+			51.5151322	-0.1992353
+			51.5151481	-0.1990836
+			51.4676491	-0.1629217
+	crossing		51.5271930	-0.0782812
+			51.4896591	-0.1747155
+			51.4897045	-0.1747986
+			51.5490427	-0.0609241
+			51.5051110	-0.0756184
+			51.5051981	-0.0755613
+			51.5057975	-0.0751559
+			51.5058836	-0.0750997
+			51.5318231	-0.2439904
+			51.5318396	-0.2440229
+			51.5318572	-0.2440481
+			51.5047528	0.0397869
+			51.5047699	0.0395150
+			51.5047910	0.0397673
+			51.5048821	0.0395817
+			51.5048854	0.0397516
+			51.5049358	0.0397555
+			51.5049440	0.0395987
+			51.5050066	0.0397620
+			51.5050172	0.0396143
+	traffic_signals		51.5059798	0.0397410
+			51.5059983	0.0398957
+			51.5060057	0.0397442
+			51.5062504	0.0399285
+			51.5062608	0.0397757
+			51.5069103	0.0400196
+			51.5069190	0.0398690
+			51.5071877	0.0400564
+			51.5071974	0.0399074
+	traffic_signals		51.5072198	0.0400611
+			51.5087023	0.0402955
+			51.5087544	0.0401334
+			51.5088343	0.0401204
+			51.5088406	0.0403622
+			51.5088829	0.0404066
+			51.5176808	-0.0974846
+			51.3176187	-0.1611154
+			51.3176371	-0.1611120
+			51.3176561	-0.1611017
+			51.3178855	-0.1602924
+			51.3178986	-0.1602603
+			51.3179116	-0.1602362
+			51.3179291	-0.1602133
+			51.3179500	-0.1601953
+			51.3179721	-0.1601838
+			51.3179962	-0.1601753
+			51.5518534	0.0315338
+			51.5541337	0.0205471
+			51.5551020	0.0194378
+			51.5174545	-0.0936536
+			51.5351780	-0.0758900
+			51.5352063	-0.0755381
+			51.5197641	-0.1549333
+			51.3134840	-0.1409750
+			51.3131332	-0.1415591
+	crossing		51.3221432	-0.1365369
+			51.4038442	-0.0553279
+			51.4180557	-0.0598641
+			51.4181918	-0.0602420
+			51.4636526	-0.1179253
+			51.4850200	-0.2784244
+			51.4092461	-0.2139200
+			51.4071964	-0.2114829
+			51.5774383	-0.0750060
+			51.5774951	-0.0752681
+			51.5844821	-0.0600640
+			51.4973924	-0.0989524
+			51.4119318	-0.1235994
+			51.4506740	-0.0948300
+			51.5648789	-0.3526887
+			51.5616937	-0.4126991
+			51.5330605	-0.2912220
+			51.5329408	-0.2913845
+			51.5468922	-0.0370243
+			51.5467568	-0.0369737
+Blue Fin Loading Bay			51.5061772	-0.0994425
+			51.5151139	-0.1260090
+			51.5730181	-0.4128787
+			51.5483297	-0.3997343
+			51.5167479	-0.4007594
+			51.4936586	-0.4285424
+			51.4935207	-0.4285813
+			51.5214063	-0.0734294
+			51.5214411	-0.0734152
+			51.5420398	-0.1385679
+			51.5076603	0.0398431
+			51.4867378	0.0197673
+			51.4642273	-0.2105037
+			51.4185486	0.0985101
+			51.4187084	0.0982032
+			51.5469604	-0.0419812
+			51.4862191	-0.1386853
+			51.4862724	-0.1383385
+			51.5327342	-0.3081123
+			51.3849862	-0.2001647
+			51.6177468	-0.0655962
+			51.5544456	-0.3044310
+			51.5542157	-0.3044317
+			51.4934739	0.0255278
+			51.4934836	0.0253370
+			51.3931668	-0.0355742
+			51.3930438	-0.0355995
+			51.3933866	-0.0413931
+			51.3935308	-0.0415144
+			51.4435440	-0.0265516
+			51.3808438	-0.2452481
+			51.3807257	-0.2450071
+			51.3773033	-0.2788597
+			51.3770816	-0.2786221
+			51.3773812	-0.2786974
+			51.3771922	-0.2784782
+			51.5746666	-0.1350311
+			51.4726899	-0.4551285
+			51.5404215	-0.2993380
+			51.5483623	-0.1285438
+			51.5484264	-0.1284591
+			51.4736734	-0.4870082
+			51.4741573	-0.4813993
+			51.4742979	-0.4860765
+			51.4742915	-0.4816358
+			51.4743118	-0.4817631
+			51.5333491	-0.0570464
+			51.4037514	-0.2568430
+			51.5136348	-0.1115400
+			51.5348620	-0.0542859
+			51.5747243	-0.0538055
+			51.5747760	-0.0537171
+			51.5747981	-0.0536809
+			51.5748269	-0.0536320
+			51.5225797	-0.1356455
+			51.5301361	-0.0214264
+			51.5004763	0.0019005
+			51.5005221	0.0019075
+			51.5005679	0.0019146
+			51.5014382	0.0002788
+			51.5015473	0.0001937
+			51.5015941	0.0001315
+			51.5026805	-0.0015302
+			51.5027351	-0.0016251
+			51.5027595	-0.0016764
+			51.5046502	-0.0058159
+			51.5046882	-0.0058923
+			51.5047775	-0.0060247
+			51.5055821	-0.0070166
+			51.5056285	-0.0070663
+			51.5057449	-0.0071232
+			51.5085029	-0.0074923
+			51.5086165	-0.0074005
+			51.5087488	-0.0072904
+			51.5768232	0.0335362
+			51.4922647	-0.2197752
+			51.4922811	-0.2214262
+			51.4922853	-0.2202520
+	crossing		51.5708101	-0.4112854
+	crossing		51.5721433	-0.4123011
+			51.4612696	-0.0756382
+			51.4613486	-0.0757570
+			51.4612553	-0.0756624
+			51.4613329	-0.0757841
+			51.5251574	-0.0566446
+			51.4406241	-0.1038708
+			51.4407211	-0.1041836
+			51.5159801	-0.1047695
+			51.5217849	-0.0914848
+			51.5180166	-0.1322968
+			51.5181081	-0.1320620
+			51.5174541	-0.0936138
+			51.5306906	-0.0219999
+			51.5223559	-0.1379235
+			51.5127534	-0.0906171
+			51.5436754	-0.0253851
+			51.5271324	-0.1369064
+			51.5271848	-0.1369576
+			51.5272207	-0.1370294
+			51.5273259	-0.1371340
+			51.5732152	-0.0373434
+			51.5733019	-0.0373005
+			51.5730899	-0.0375310
+			51.5731609	-0.0374174
+			51.5168102	-0.1357686
+			51.5169448	-0.1358601
+			51.5170722	-0.1359602
+			51.4339203	0.1026994
+			51.4854127	-0.1233605
+			51.5024716	-0.1113243
+			51.5204089	-0.1359651
+			51.4651279	-0.0112348
+			51.5509239	-0.0183652
+			51.4703156	-0.0687835
+			51.4700705	-0.0685853
+			51.4637281	0.1821350
+			51.4637691	0.1821577
+			51.4942138	-0.1639460
+			51.4650180	-0.0112608
+			51.5159874	-0.1046906
+			51.5432921	-0.0255730
+			51.5441845	-0.0250573
+			51.5441395	-0.0250412
+			51.5472569	-0.0493192
+			51.5473312	-0.0493174
+			51.6473837	-0.0742034
+			51.6473854	-0.0741631
+			51.6473744	-0.0740588
+			51.4727439	-0.1768593
+			51.4727780	-0.1768368
+			51.4727002	-0.1767892
+			51.4728370	-0.1767892
+			51.4728923	-0.1767842
+			51.4698274	-0.0683806
+			51.5407214	-0.0755939
+			51.5380777	-0.1404364
+			51.5380336	-0.1405470
+			51.5407137	-0.0754687
+			51.5043171	0.0000631
+			51.5805256	-0.3404165
+			51.5805381	-0.3400361
+			51.5805405	-0.3400350
+			51.5805408	-0.3400361
+			51.5805440	-0.3399782
+			51.5805443	-0.3399792
+			51.5805443	-0.3399793
+			51.5805452	-0.3400917
+			51.5805456	-0.3400927
+			51.5805555	-0.3399241
+			51.5805559	-0.3399252
+			51.5805559	-0.3399252
+			51.5805580	-0.3401450
+			51.5805583	-0.3401461
+			51.5805745	-0.3398758
+			51.5805748	-0.3398769
+			51.5805748	-0.3398770
+			51.5805780	-0.3401922
+			51.5805784	-0.3401932
+			51.5805999	-0.3398359
+			51.5806002	-0.3398370
+			51.5806002	-0.3398370
+			51.5806042	-0.3402306
+			51.5806046	-0.3402317
+			51.5806303	-0.3398065
+			51.5806307	-0.3398075
+			51.5806307	-0.3398076
+			51.5806353	-0.3402583
+			51.5806357	-0.3402594
+			51.5806641	-0.3397891
+			51.5806645	-0.3397902
+			51.5806645	-0.3397902
+			51.5806695	-0.3402737
+			51.5806699	-0.3402748
+			51.5806995	-0.3397848
+			51.5806999	-0.3397858
+			51.5806999	-0.3397859
+			51.5807050	-0.3402760
+			51.5807053	-0.3402771
+			51.5807350	-0.3397947
+			51.5807350	-0.3397948
+			51.5807398	-0.3402651
+			51.5807402	-0.3402662
+			51.5807678	-0.3398164
+			51.5807678	-0.3398165
+			51.5807722	-0.3402415
+			51.5807725	-0.3402426
+			51.5807967	-0.3398497
+			51.5807967	-0.3398498
+			51.5808003	-0.3402066
+			51.5808006	-0.3402077
+			51.5808200	-0.3398928
+			51.5808200	-0.3398929
+			51.5808226	-0.3401622
+			51.5808230	-0.3401633
+			51.5808365	-0.3399434
+			51.5808365	-0.3399435
+			51.5808380	-0.3401107
+			51.5808383	-0.3401118
+			51.5808453	-0.3399988
+			51.5808453	-0.3399988
+			51.5808459	-0.3400559
+			51.5808459	-0.3400560
+			51.5810529	-0.3398083
+			51.5805809	-0.3400408
+			51.5805826	-0.3400400
+			51.5805829	-0.3400408
+			51.5805851	-0.3399994
+			51.5805854	-0.3400002
+			51.5805854	-0.3400002
+			51.5805860	-0.3400804
+			51.5805863	-0.3400812
+			51.5805929	-0.3401204
+			51.5805934	-0.3399609
+			51.5805936	-0.3399617
+			51.5805936	-0.3399617
+			51.5805951	-0.3401185
+			51.5805954	-0.3401193
+			51.5806069	-0.3399264
+			51.5806072	-0.3399272
+			51.5806072	-0.3399272
+			51.5806094	-0.3401522
+			51.5806097	-0.3401529
+			51.5806246	-0.3401788
+			51.5806250	-0.3398979
+			51.5806253	-0.3398987
+			51.5806253	-0.3398987
+			51.5806281	-0.3401796
+			51.5806284	-0.3401804
+			51.5806431	-0.3401976
+			51.5806467	-0.3398769
+			51.5806470	-0.3398777
+			51.5806470	-0.3398777
+			51.5806503	-0.3401994
+			51.5806506	-0.3402001
+			51.5806578	-0.3402151
+			51.5806709	-0.3398645
+			51.5806711	-0.3398653
+			51.5806711	-0.3398653
+			51.5806747	-0.3402104
+			51.5806750	-0.3402112
+			51.5806795	-0.3402532
+			51.5806961	-0.3398614
+			51.5806964	-0.3398622
+			51.5806964	-0.3398622
+			51.5807000	-0.3402120
+			51.5807003	-0.3402128
+			51.5807214	-0.3398685
+			51.5807214	-0.3398686
+			51.5807231	-0.3403719
+			51.5807249	-0.3402042
+			51.5807251	-0.3402050
+			51.5807271	-0.3404563
+			51.5807449	-0.3398840
+			51.5807449	-0.3398841
+			51.5807480	-0.3401874
+			51.5807482	-0.3401882
+			51.5807655	-0.3399078
+			51.5807655	-0.3399078
+			51.5807680	-0.3401625
+			51.5807683	-0.3401633
+			51.5807821	-0.3399386
+			51.5807821	-0.3399386
+			51.5807840	-0.3401308
+			51.5807842	-0.3401316
+			51.5807939	-0.3399747
+			51.5807939	-0.3399747
+			51.5807949	-0.3400940
+			51.5807952	-0.3400948
+			51.5808001	-0.3400142
+			51.5808001	-0.3400142
+			51.5808006	-0.3400549
+			51.5808006	-0.3400550
+			51.5810479	-0.3398987
+			51.5806933	-0.3402907
+			51.5808119	-0.3398737
+			51.5808136	-0.3397924
+			51.4844538	0.1728619
+			51.5125565	-0.1085092
+			51.4779967	-0.0269492
+			51.4779995	-0.0268435
+			51.5267188	-0.1285221
+			51.5266604	-0.1286645
+			51.5174604	-0.0932413
+			51.5175392	-0.0932459
+			51.5173013	-0.0937771
+			51.5176858	-0.0935774
+			51.5118031	-0.1167046
+			51.5119140	-0.1167718
+			51.4813270	-0.0238192
+			51.4814181	-0.0238357
+			51.5144294	-0.1065108
+			51.5146541	-0.2144225
+			51.5146583	-0.2144786
+			51.5146548	-0.2143184
+			51.5144557	-0.1364092
+			51.5154709	-0.1350048
+			51.5218612	-0.1361711
+			51.5219651	-0.1362874
+			51.5020573	0.0300396
+			51.5254355	-0.0576347
+			51.5257711	-0.0577298
+			51.5258012	-0.0573585
+			51.5256905	-0.0573267
+			51.5257955	-0.0563878
+			51.5144757	-0.1364260
+			51.5247034	-0.0950467
+Newacres Library			51.4976306	0.1212466
+Newacres Library			51.4978528	0.1211428
+			51.4879229	-0.0504573
+			51.4880009	-0.0503458
+			51.4877559	-0.0512033
+			51.5805258	-0.3403119
+			51.4525667	-0.0171548
+			51.4525428	-0.0169141
+			51.5489835	-0.0611033
+			51.5409020	-0.0580919
+			51.5176737	-0.1625867
+			51.5177395	-0.1625270
+			51.5183281	-0.1655794
+			51.5182591	-0.1654791
+			51.4983437	-0.1752205
+			51.4982494	-0.1751987
+			51.5306550	-0.0219630
+			51.5305042	-0.0218064
+			51.4068838	-0.1639128
+			51.5511037	-0.0434178
+			51.5511410	-0.0432468
+			51.5235695	-0.1270121
+			51.5100526	-0.0384247
+			51.5099902	-0.0384393
+			51.4905795	-0.1545296
+			51.4912497	-0.1548850
+			51.4905630	-0.1546521
+			51.4913297	-0.1549636
+			51.4878455	-0.0506151
+			51.4877996	-0.0507732
+			51.5796856	-0.0728230
+			51.4805560	-0.0309862
+			51.4922855	-0.2200641
+			51.5245104	-0.0568259
+			51.5229112	-0.1380074
+			51.5228580	-0.1381278
+			51.4133344	-0.3076498
+			51.5380282	-0.1275724
+			51.5082117	-0.0550739
+	crossing		51.5419176	-0.1384737
+			51.5235207	-0.0639910
+			51.5313233	0.1458904
+			51.5313149	0.1458238
+			51.5599976	0.0073677
+			51.5598786	0.0074615
+			51.5598661	0.0074746
+			51.5600298	0.0074326
+			51.5599058	0.0075242
+			51.5600578	0.0074867
+			51.5600248	0.0075084
+			51.5600070	0.0075189
+			51.5599628	0.0075404
+			51.5598930	0.0075205
+			51.5598807	0.0075189
+			51.5599390	0.0072996
+			51.5598427	0.0073586
+			51.5598240	0.0075135
+			51.5599549	0.0073037
+			51.5599696	0.0073112
+			51.5600355	0.0074442
+			51.5600983	0.0075638
+			51.5005498	-0.1164452
+	crossing		51.5381215	-0.0256887
+			51.5380735	-0.0256292
+			51.6138509	-0.1512762
+			51.6138530	-0.1511399
+			51.6140670	-0.1505347
+			51.6013312	-0.2095820
+			51.6013041	-0.2094545
+Wandsworth Town Station			51.4610852	-0.1874314
+			51.5271802	-0.1289621
+			51.5271380	-0.1290934
+			51.5158718	-0.0903307
+			51.5158542	-0.0900109
+			51.4987567	-0.2260682
+			51.5146817	-0.0958391
+			51.5147200	-0.0958294
+			51.5146996	-0.0956087
+			51.5146536	-0.0956219
+			51.5133428	-0.0943182
+			51.5131877	-0.0943904
+			51.4056583	-0.1640288
+			51.4062405	-0.1640347
+			51.5105158	-0.0895550
+			51.5105602	-0.0897424
+			51.4652000	-0.0177582
+			51.4648312	-0.0168896
+			51.5018992	-0.1572922
+			51.5019135	-0.1571945
+			51.5015909	-0.1570578
+			51.5015722	-0.1571784
+			51.4998683	-0.1570173
+			51.4999261	-0.1570396
+			51.4999406	-0.1569415
+			51.4998869	-0.1569150
+			51.5013202	-0.1569743
+			51.5013052	-0.1570709
+			51.5013221	-0.1569623
+			51.5014262	-0.1571435
+			51.5014468	-0.1570129
+			51.5015845	-0.1570989
+			51.5193848	-0.1332317
+			51.4989547	-0.1582188
+			51.5387628	-0.0580919
+			51.4988193	-0.1594615
+			51.5388573	-0.1266478
+			51.5883139	-0.1123089
+			51.5881638	-0.1129217
+			51.5881108	-0.1128959
+			51.5516586	-0.0171375
+			51.5514929	-0.0171126
+			51.5515785	-0.0171299
+			51.5513974	-0.0171015
+			51.5120386	-0.0916341
+			51.4612734	-0.1872452
+			51.3844744	-0.2619977
+			51.5129362	-0.0907198
+			51.5128873	-0.0905304
+			51.5119827	-0.0916656
+			51.4747849	-0.1463887
+	crossing		51.4941292	-0.2730060
+			51.5878540	-0.2205512
+			51.5881266	-0.2210181
+			51.5878858	-0.2209213
+			51.5878415	-0.2210690
+			51.6138577	-0.1512287
+			51.6138503	-0.1511734
+			51.5173662	-0.1378295
+			51.5173910	-0.1377843
+			51.5014423	0.0301149
+			51.5013852	0.0302312
+			51.5039185	-0.4068570
+			51.4913161	-0.1217951
+			51.6137652	-0.1515321
+			51.5077529	-0.1423471
+			51.5076279	-0.1426190
+			51.5112011	-0.0853035
+			51.4651322	-0.0112205
+			51.5108981	-0.0685578
+			51.5113129	-0.0668940
+			51.3104382	-0.1554069
+			51.5423403	-0.0577668
+			51.5423368	-0.0574706
+			51.5408689	-0.0576264
+			51.5401525	-0.0578461
+			51.5389009	-0.0583568
+			51.5387597	-0.0583735
+			51.5389188	-0.0580862
+	crossing		51.5419218	-0.0574718
+			51.5419055	-0.0577996
+			51.5372982	-0.0580549
+			51.5377529	-0.0583061
+			51.5378101	-0.0580744
+			51.5372878	-0.0582787
+			51.5021338	-0.1265026
+			51.5021392	-0.1265816
+			51.4910256	-0.1538338
+			51.5938545	-0.3378498
+			51.4020658	-0.2653100
+			51.4022138	-0.2653153
+	crossing		51.5416858	-0.1382541
+			51.5005829	-0.1164555
+			51.5010895	-0.1160609
+			51.5446183	0.0060851
+			51.5447570	0.0069056
+			51.5441891	0.0069121
+			51.5443009	0.0076118
+			51.5442883	0.0068694
+			51.5444007	0.0075733
+			51.5446396	0.0062134
+			51.5446161	0.0060710
+			51.5022671	-0.1529251
+			51.5024413	-0.1530194
+			51.4128598	-0.2960974
+			51.4127888	-0.2960681
+			51.4127343	-0.2960378
+			51.5393130	-0.1252043
+			51.4059538	-0.1640340
+			51.5333340	-0.0571621
+			51.5933646	-0.2360251
+			51.5418379	0.0088098
+			51.5417758	0.0088499
+			51.5012074	-0.1156720
+			51.5011778	-0.1156825
+			51.5016296	-0.1160180
+			51.5014462	-0.1156611
+			51.5014713	-0.1156826
+			51.5014996	-0.1157231
+			51.5217135	-0.0921855
+			51.5217243	-0.0920810
+			51.5015929	-0.1664615
+			51.4987612	-0.2259793
+			51.4987643	-0.2259185
+			51.5574828	-0.3621385
+	crossing		51.3539652	-0.0384226
+			51.5475935	-0.0476189
+	crossing		51.5404830	-0.2992310
+			51.4586816	0.0010705
+			51.4588160	0.0010613
+			51.4519511	-0.0165628
+			51.4519418	-0.0164372
+			51.5346612	-0.0551283
+			51.5348005	-0.0545438
+			51.5347124	-0.0549135
+			51.5346969	-0.0549786
+			51.4055201	-0.1640511
+			51.5389429	-0.0564496
+			51.5391158	-0.0563483
+			51.5389217	-0.0563406
+			51.5390947	-0.0562547
+			51.5470195	-0.0550226
+			51.5661155	0.0022634
+			51.5229511	-0.0753506
+	crossing		51.5479388	-0.0475787
+	crossing		51.5479445	-0.0476988
+			51.5442749	0.0046863
+			51.5442991	0.0048141
+			51.5272147	-0.0369696
+			51.5271008	-0.0368348
+			51.5272519	-0.0369005
+			51.5272343	-0.0368891
+			51.5271171	-0.0367583
+			51.3231723	-0.1309339
+			51.3235136	-0.1305603
+			51.3235468	-0.1304939
+			51.3235657	-0.1303858
+			51.3235835	-0.1302796
+			51.3236677	-0.1301677
+			51.3237412	-0.1300539
+			51.3240049	-0.1291648
+	crossing		51.5847848	-0.3620306
+			51.5847205	-0.3621008
+			51.5077191	-0.1424206
+			51.5420083	-0.0468141
+			51.5421174	-0.0468819
+			51.5470290	-0.0478240
+			51.5469191	-0.0478251
+	crossing		51.5468685	-0.0476622
+			51.4886031	-0.0577245
+			51.4886713	-0.0576771
+			51.3845954	-0.2621928
+			51.4586187	0.1981067
+	crossing		51.5468703	-0.0478312
+			51.5491258	-0.0607144
+	crossing		51.4439630	-0.0260904
+	crossing		51.4440197	-0.0259990
+			51.4439348	-0.0260383
+			51.4439926	-0.0261370
+			51.4440771	-0.0262165
+			51.4440174	-0.0259949
+			51.3893000	-0.0257985
+			51.3895070	-0.0262762
+			51.3894864	-0.0261380
+			51.4878898	-0.0505209
+			51.4880861	-0.0502598
+			51.4881362	-0.0502056
+			51.4877680	-0.0509385
+			51.4988644	-0.1590392
+			51.4144321	-0.2147741
+			51.4143037	-0.2150634
+			51.3994939	-0.2015635
+			51.3996106	-0.2013973
+			51.4647951	-0.0168405
+			51.5390001	0.0048593
+			51.5389536	0.0047551
+			51.4824074	-0.0398698
+			51.4822702	-0.0398069
+			51.5222139	-0.1365609
+			51.5221286	-0.1364721
+			51.4807042	-0.0590126
+			51.4807646	-0.0592435
+			51.4807325	-0.0592753
+			51.4807109	-0.0592967
+			51.4806798	-0.0593275
+			51.4806300	-0.0590861
+			51.4806516	-0.0590647
+			51.4806837	-0.0590329
+			51.4805989	-0.0591169
+			51.4797040	-0.0545066
+			51.4790919	-0.0539902
+			51.5385586	0.0342600
+			51.5391789	0.0336625
+		"6'6"""	51.5393244	0.0340426
+		"6'6"""	51.5392677	0.0338210
+			51.5392187	0.0338481
+			51.5392845	0.0338116
+			51.5393624	0.0340186
+			51.5393392	0.0340332
+			51.5393071	0.0337991
+			51.5386073	0.0344959
+			51.5385226	0.0340862
+			51.4596745	-0.2088820
+			51.4562173	0.2011610
+			51.5391520	0.0029629
+			51.5391356	0.0029749
+			51.5151146	-0.1081030
+			51.5150741	-0.1080966
+			51.5160152	-0.1044197
+			51.5159961	-0.1046021
+	crossing		51.4647613	-0.0167441
+			51.3767781	0.0040784
+			51.3909644	-0.0283702
+			51.5261015	-0.0226495
+			51.4723587	-0.2530044
+			51.4647350	-0.0166688
+			51.4646803	-0.0164301
+	traffic_signals		51.4647480	-0.0167054
+			51.4647171	-0.0166077
+			51.4646886	-0.0164842
+			51.4451850	-0.3304993
+			51.4453151	-0.3305411
+			51.5065337	-0.0719347
+			51.5065841	-0.0721390
+			51.5079820	-0.0550458
+		4.5	51.5111864	-0.0313316
+			51.5372608	-0.3241185
+			51.5361994	-0.3196717
+			51.5013666	-0.1657925
+			51.5013660	-0.1656608
+			51.5014443	-0.1664548
+			51.4723185	-0.2530631
+			51.4989157	-0.1765017
+			51.4959733	-0.2729324
+			51.5274028	-0.1340676
+			51.5274810	-0.1338982
+			51.3555522	-0.1934783
+			51.5071490	-0.1292093
+			51.5071766	-0.1294523
+			51.3921790	-0.0275179
+			51.4740921	-0.0335138
+			51.4740494	-0.0335954
+			51.4883247	-0.2893333
+			51.4072226	-0.1637463
+			51.4056121	-0.1640251
+			51.5517543	-0.0128985
+			51.5514687	-0.0146313
+			51.5512775	-0.0157821
+			51.5511065	-0.0169584
+			51.5509543	-0.0181400
+			51.5515246	0.0340975
+			51.5514980	0.0339111
+			51.5513354	0.0344518
+			51.5514432	0.0344132
+			51.5516931	0.0329497
+			51.5517721	0.0329204
+			51.5517822	0.0315607
+			51.5000492	-0.1775068
+			51.5002590	-0.1775440
+			51.5491844	-0.0115724
+			51.5486429	-0.0125963
+			51.5485814	-0.0127147
+			51.5197108	-0.1434649
+			51.5197241	-0.1433806
+			51.5202886	-0.1437673
+			51.5663325	0.0025124
+			51.5662528	0.0023921
+			51.5661729	0.0022955
+	crossing		51.5863622	-0.0025665
+			51.5863982	-0.0026152
+			51.5862891	-0.0024678
+			51.5662200	0.0023511
+			51.4521078	-0.0163057
+			51.4521134	-0.0164020
+			51.4521236	-0.0165257
+			51.4520256	-0.0163232
+			51.5149018	-0.1543479
+			51.4780770	-0.0177171
+			51.4779556	-0.0177120
+			51.4780805	-0.0176377
+			51.4779355	-0.0176705
+			51.4779596	-0.0176324
+			51.4988542	-0.1772856
+			51.4988905	-0.1768190
+			51.4994493	-0.1754310
+			51.5386054	0.0818647
+			51.4128072	-0.2194468
+			51.4126549	-0.2192677
+			51.5203391	-0.1461508
+			51.5203669	-0.1461622
+			51.5222695	-0.1381203
+			51.5265478	-0.1243036
+			51.5265819	-0.1241667
+			51.5142639	-0.1065153
+			51.3769255	0.0041145
+			51.5797870	-0.3527454
+	crossing		51.5335790	-0.1286177
+			51.4851376	-0.1889411
+			51.4850960	-0.1890458
+			51.5179709	-0.1539763
+			51.5179992	-0.1538264
+			51.5180887	-0.1536206
+			51.5181099	-0.1534931
+			51.4507492	0.1918530
+			51.4844752	-0.0422095
+			51.4845375	-0.0421731
+			51.5198103	-0.1549563
+			51.5198289	-0.1546322
+			51.5198909	-0.1546621
+			51.5336644	-0.1280419
+			51.5339892	-0.1272106
+			51.5336048	-0.1285248
+			51.5339301	-0.1271416
+			51.5215729	-0.1560470
+			51.5215986	-0.1559187
+			51.5149742	-0.1598564
+			51.5149413	-0.1600606
+			51.5158138	-0.1602612
+			51.5157916	-0.1603830
+			51.5193302	-0.1602479
+			51.5275973	-0.0230130
+	traffic_signals		51.5271953	-0.0783106
+			51.5736902	-0.0151951
+			51.5183250	-0.1668372
+			51.5182478	-0.1666679
+	traffic_signals		51.5339799	-0.1272445
+			51.5339468	-0.1273521
+			51.5196023	-0.1653498
+			51.5195640	-0.1653763
+			51.5195261	-0.1653790
+			51.5196968	-0.1653052
+			51.5198201	-0.1651685
+			51.5197210	-0.1652784
+			51.5339043	-0.1272574
+			51.5336925	-0.1279839
+			51.5629857	0.0095161
+			51.5241753	-0.1613007
+			51.5242727	-0.1613516
+			51.5244453	-0.1614314
+			51.5243766	-0.1614015
+			51.5249575	-0.1609931
+			51.5249781	-0.1608605
+			51.5093323	-0.2245356
+			51.5214339	-0.1644883
+			51.5214856	-0.1643031
+			51.5125182	-0.0414809
+			51.5255352	-0.1629985
+			51.5256780	-0.1631140
+			51.5803490	-0.0726911
+	traffic_signals		51.5799749	-0.0727641
+	traffic_signals		51.5800601	-0.0727471
+	traffic_signals		51.5419269	-0.1382650
+	traffic_signals		51.4633578	-0.1147999
+			51.3926590	0.0023694
+			51.3925794	0.0021384
+			51.3925271	0.0021793
+			51.3926080	0.0024196
+			51.3925522	0.0024579
+			51.5640843	-0.0414444
+			51.4851035	-0.2785237
+			51.4651955	-0.0112007
+			51.4991551	-0.1753817
+			51.4992848	-0.1754038
+			51.4993183	-0.1754099
+			51.4986494	-0.1787113
+			51.5559744	0.0182148
+			51.5559801	0.0182630
+			51.5736046	-0.0153139
+			51.5160575	-0.1040083
+			51.5160749	-0.1038441
+			51.4073668	-0.2114338
+			51.4074635	-0.2119012
+			51.3930311	-0.0273855
+			51.3933521	-0.0273691
+			51.4089130	-0.2277088
+			51.4089408	-0.2275678
+			51.5021065	0.0300324
+			51.4396344	0.1450970
+			51.3859539	-0.0697634
+			51.3858706	-0.0697104
+			51.3859112	-0.0697392
+			51.5162626	-0.1788978
+			51.5480274	0.0214470
+			51.5479602	0.0214801
+	crossing		51.4978707	-0.1785546
+			51.4916648	-0.1722228
+			51.4917256	-0.1723106
+			51.4912612	-0.1730890
+			51.4911951	-0.1730117
+			51.4177931	-0.1502786
+			51.4177107	-0.1505157
+			51.5419436	-0.1385033
+			51.4589275	0.2005702
+			51.5418982	-0.1356813
+			51.5420142	-0.1358723
+			51.4404683	-0.1251785
+			51.4404802	-0.1252732
+			51.4404552	-0.1250889
+			51.5391197	-0.1258237
+			51.5386414	-0.1270882
+	traffic_signals		51.5469028	-0.0476622
+			51.5468206	-0.0476642
+			51.5096278	-0.2245395
+			51.5518307	0.0252550
+			51.4301024	-0.1292524
+			51.4301735	-0.1292112
+			51.5216826	-0.0924930
+			51.5127195	-0.0399971
+			51.3995462	-0.2014849
+			51.5118649	-0.2161492
+			51.5118211	-0.2163019
+			51.5475167	-0.0477597
+			51.5473679	-0.0478003
+			51.5472888	-0.0478297
+			51.5472528	-0.0478463
+			51.5161000	-0.1786507
+			51.4143662	-0.2149225
+			51.4091574	-0.2142130
+			51.5164697	-0.1657664
+			51.5163861	-0.1656329
+			51.5162624	-0.1654460
+			51.5161985	-0.1653435
+			51.5160471	-0.1651203
+			51.5159809	-0.1650222
+			51.5158496	-0.1648231
+			51.5157865	-0.1647289
+			51.5002468	-0.1948062
+			51.5001542	-0.1947664
+			51.5391943	0.0337345
+			51.5151033	-0.1645098
+			51.5151520	-0.1644258
+			51.5220945	-0.1396767
+			51.5221274	-0.1396001
+	crossing		51.5174585	-0.0933553
+	crossing		51.5175380	-0.0933581
+	crossing		51.5176604	-0.0935081
+			51.5175797	-0.0936504
+	traffic_signals		51.5174595	-0.0932925
+			51.5175672	-0.0935661
+			51.5176723	-0.0935017
+			51.4497806	-0.3303667
+			51.5122269	-0.0401994
+			51.5122912	-0.0401765
+			51.5230780	-0.1344290
+			51.5230139	-0.1345900
+			51.6021430	-0.0707064
+			51.6021512	-0.0705952
+	traffic_signals		51.4849419	-0.1232286
+			51.4882610	-0.2893329
+			51.4687895	-0.0317408
+			51.4783545	-0.0228447
+			51.4785364	-0.0229020
+			51.5433911	-0.0255796
+			51.5434195	-0.0255724
+			51.5433157	-0.0255725
+			51.5170640	-0.1923794
+			51.5170850	-0.1922324
+			51.5417458	-0.1384236
+			51.5419700	-0.1382356
+			51.5115834	-0.1929961
+			51.5115995	-0.1929028
+			51.5621368	-0.4132080
+			51.5618303	-0.4128512
+			51.4976558	-0.1662657
+			51.4977548	-0.1661167
+	traffic_signals		51.5736881	-0.4132931
+	crossing		51.5723475	-0.4124447
+	crossing		51.5737195	-0.4133127
+			51.5435982	-0.0254447
+			51.5137904	-0.2008836
+			51.5137491	-0.2009882
+			51.5135785	-0.2006074
+			51.5135220	-0.2007331
+			51.5136471	-0.1149396
+			51.5135420	-0.1151768
+			51.4412351	0.1510032
+			51.4652941	-0.0179829
+			51.5180990	-0.2020193
+			51.5181294	-0.2018952
+			51.5663037	0.0024604
+	crossing		51.4091699	-0.2141718
+			51.5139035	-0.1093567
+			51.5848475	-0.3619726
+			51.4937108	-0.1630776
+			51.4936880	-0.1631935
+			51.5081967	-0.0507145
+			51.5082156	-0.0507310
+			51.5079980	-0.0507676
+			51.5168794	-0.2139452
+			51.5184242	-0.2245279
+			51.5184607	-0.2244309
+			51.5148714	-0.2160783
+			51.5149890	-0.2169608
+			51.5147997	-0.2100644
+			51.5147408	-0.2101578
+			51.5148232	-0.2157163
+			51.4994040	-0.1980956
+			51.4990268	-0.1753647
+			51.4987274	-0.1786999
+			51.4987428	-0.1786577
+	give_way		51.5239825	-0.0603772
+			51.5476159	-0.0476169
+			51.5528095	0.0224457
+			51.5527688	0.0222900
+			51.5532915	0.0215559
+			51.5532451	0.0214120
+			51.5883538	-0.1123391
+			51.5257806	-0.0565026
+			51.5257503	-0.0567078
+			51.5257348	-0.0568820
+			51.4887676	-0.1652632
+			51.4886648	-0.1651725
+			51.5568437	0.0174242
+			51.5492284	-0.0114894
+			51.5487603	-0.0123729
+			51.5488216	-0.0122571
+			51.4910823	-0.1537329
+			51.4905763	-0.1545543
+			51.5061815	-0.0996146
+			51.5464253	-0.1465587
+			51.5463880	-0.1467056
+	traffic_signals		51.5478621	-0.0477113
+			51.5011747	-0.1625270
+			51.5017932	-0.1622461
+			51.5126675	-0.0989454
+			51.5126679	-0.0990143
+			51.5126674	-0.0990936
+			51.5094000	-0.1565350
+			51.5922978	-0.0701045
+Shakespeare Road Modal Filter			51.4570302	-0.1055174
+			51.5346142	-0.0216613
+			51.5345327	-0.0216434
+			51.5345054	-0.0216581
+			51.5344986	-0.0216902
+	traffic_signals		51.5109278	-0.0685667
+			51.4036280	-0.2568043
+			51.4981401	-0.1962016
+			51.4981630	-0.1960810
+			51.4817982	-0.3041119
+			51.4816929	-0.3040751
+			51.5620873	-0.4131438
+			51.5518237	-0.0124899
+			51.4789539	-0.0260777
+			51.4910518	-0.1537872
+			51.5523800	0.0235073
+			51.5523408	0.0233606
+			51.5214006	-0.0940751
+			51.5213972	-0.0941381
+			51.5213744	-0.0942481
+			51.5881246	-0.1128561
+			51.5733208	-0.0378583
+			51.5729562	-0.0378367
+			51.5732093	-0.0378648
+	crossing		51.5734344	-0.0379207
+			51.5733567	-0.0380882
+			51.5735372	-0.0374548
+			51.5731853	-0.0381481
+			51.5735433	-0.0375741
+			51.5731552	-0.0380954
+	crossing		51.5731612	-0.0379390
+			51.5730285	-0.0376501
+	crossing		51.5729734	-0.0377784
+			51.5184263	0.0323333
+			51.5184250	0.0323987
+			51.4945153	-0.1901566
+			51.4945284	-0.1898630
+			51.5478829	-0.0063360
+			51.5478800	-0.0063324
+			51.3221216	-0.1365672
+			51.3221653	-0.1365069
+			51.5214317	-0.1625589
+			51.5435058	-0.0255152
+			51.4984811	-0.1498771
+			51.4985795	-0.1497246
+			51.6726528	-0.0225471
+	give_way		51.4639896	-0.1168096
+			51.5366248	0.0079514
+			51.4858134	-0.0972140
+			51.4987166	-0.1787192
+			51.4978446	-0.1785493
+			51.5796345	-0.3526285
+			51.5796558	-0.3526473
+			51.5695844	0.1292351
+			51.5692806	0.1293971
+			51.5692709	0.1294462
+			51.5692751	0.1295154
+			51.5692973	0.1297074
+			51.5693111	0.1297364
+			51.5693278	0.1297453
+			51.5693652	0.1297230
+			51.5694004	0.1297165
+			51.5694337	0.1297003
+			51.5693709	0.1293272
+			51.5692715	0.1294148
+			51.5017686	-0.1590698
+			51.5017237	-0.1586352
+			51.4988339	-0.1593241
+			51.4988481	-0.1591899
+			51.4295829	-0.1731554
+			51.4295215	-0.1730521
+			51.4295645	-0.1731211
+			51.4977121	0.0602579
+			51.5519160	0.0252749
+			51.4563151	0.2005863
+			51.4636199	-0.3054482
+			51.5393092	-0.0472824
+			51.5393793	-0.0471548
+			51.5473168	-0.0461387
+			51.5481573	-0.1465297
+			51.5481206	-0.1466350
+			51.5481377	-0.1465861
+			51.5485997	-0.1467825
+			51.5485931	-0.1467986
+			51.5477685	0.0176875
+			51.5476332	0.0177476
+			51.4941371	-0.1638726
+	give_way		51.4144523	-0.1293829
+			51.5693980	0.1293166
+		7'0	51.5695282	0.1292597
+			51.5487817	-0.1470955
+	traffic_signals		51.6251820	-0.0611948
+	crossing		51.6251747	-0.0611585
+	traffic_signals		51.6251655	-0.0611227
+			51.3993728	-0.0743955
+			51.5236219	-0.1323207
+			51.5235410	-0.1325147
+			51.4056374	-0.1640279
+	crossing		51.4055587	-0.1640290
+	traffic_signals		51.4056773	-0.1640287
+			51.4054548	-0.1641196
+			51.5568157	0.0173975
+			51.4502812	-0.1000349
+			51.5165327	-0.2134385
+			51.4841050	-0.1767676
+			51.5270943	-0.1162076
+			51.5270396	-0.1164204
+			51.5269286	-0.1163547
+			51.5271412	-0.1159967
+			51.5076437	0.0402281
+			51.4538677	-0.0039485
+			51.5076456	0.0401836
+			51.5471903	-0.0443867
+			51.5470611	-0.0443000
+			51.4742931	-0.4866307
+			51.4742981	-0.4865465
+			51.4743140	-0.4818000
+			51.4743065	-0.4817150
+			51.4742992	-0.4816743
+			51.4742756	-0.4815852
+			51.4742336	-0.4814940
+			51.4741859	-0.4814274
+			51.4741273	-0.4813774
+			51.4740645	-0.4813521
+	traffic_signals		51.5140225	-0.1093980
+			51.4626151	-0.1128635
+			51.4631753	-0.1126409
+			51.6706640	-0.0173797
+			51.6707901	-0.0173141
