@@ -1,3 +1,3 @@
 library(rmarkdown)
 
-render("dashboard.Rmd")
+render("index.Rmd")

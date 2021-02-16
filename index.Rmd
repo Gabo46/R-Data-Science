@@ -16,6 +16,7 @@ library(sf)
 library(tidygraph)
 library(tidyverse)
 library(tmap)
+library(geosphere)
 
 tmap_mode("view")
 ```
@@ -23,10 +24,77 @@ tmap_mode("view")
 Underground
 =====================================
 
+Row
+-------------------------------------
 ### Tube System Map including DLR
 
 ```{r, fig.width=10, fig.height=7}
-ggplot()
+lines <- read_csv("data/london_lines.csv")
+connections = read_csv("data/london_connections.csv", col_types = cols(station1=col_integer(), station2=col_integer())) %>%
+  rename(from=station1, to=station2)
+stations <- read_csv("data/london_stations.csv", col_types = cols(id = col_integer()))
+
+nodes <- stations %>%
+  st_as_sf(coords=c("longitude", "latitude")) %>%
+  select("Station" = "name", "Number of Lines"="total_lines", "Railway"="rail", "position"="geometry") %>%
+  mutate(Railway = ifelse(Railway == 1, "Yes", "No"))
+
+edges <- connections %>%
+  inner_join(stations, c("from" = "id")) %>%
+  inner_join(stations, c("to" = "id")) %>%
+  mutate(wkt=sprintf(
+    "LINESTRING(%f %f, %f %f)", longitude.x, latitude.x, longitude.y, latitude.y
+  )) %>%
+  inner_join(lines, c("line" = "line")) %>%
+  rowwise() %>%
+  mutate(distance = distm( x = c(longitude.x, latitude.x), y = c(longitude.y, latitude.y), fun=distHaversine))
+
+
+edges <- st_as_sf(edges, wkt="wkt", dim ="XY") %>%
+  mutate(distance = sprintf(
+    "%.0f m", distance
+  )) %>%
+  select("Distance" = "distance", "wkt" = "wkt", "Line" = "name", "Station 1" = "name.x", "Station 2" = "name.y")
+
+tm_shape(edges)+
+  tm_lines(col="Line", scale=3)+
+  tm_shape(nodes) +
+  tm_dots(text="Station", size = 0.02) 
+
+e <- edges %>%
+  mutate(dist = as.numeric(strsplit(Distance, " ")[[1]][1])) %>%
+  arrange(desc(dist))
+st_geometry(e) <- NULL
+avg = group_by(e, Line) %>%
+  summarise(avg_dist = mean(dist), num = n()) %>%
+  arrange(desc(avg_dist)) %>%
+  mutate(avg_dist = sprintf(
+    "%.0f m", round(avg_dist
+  ))) %>%
+  rename("Average distance" = avg_dist, "Number of stations" = num)
+e <- e[, -5]
+```
+Row
+-------------------------------------
+### Distance between two Tube Stations
+
+```{r}
+knitr::kable(e)
+```
+
+### Average distance between two stations by Tube Line
+```{r}
+knitr::kable(avg)
+```
+
+Tube Network Analysis
+===============
+
+### Total number of Tube stations including DLR
+
+```{r}
+number <- nrow(nodes)
+valueBox(number, icon = "fa-subway")
 ```
 
 Underpasses
