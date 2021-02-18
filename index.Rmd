@@ -23,12 +23,7 @@ tmap_mode("view")
 
 Trains in London
 =====================================
-
-Row
--------------------------------------
-### Tube System Map including Overground, DLR and Crossrail
-
-```{r, fig.width=10, fig.height=7}
+```{r, include=FALSE}
 stations = st_read("data/tfl_stations_new.json") %>%
   rename("Number of Lines" = "Number.of.Lines", "Station ID" = "Station.ID", "Line(s)" = "Lines")
 lines = st_read("data/tfl_lines_new.json")
@@ -51,7 +46,13 @@ colors = c(
   "#0098D8", # Victoria
   "#93CEBA" # Waterloo & City
 )
+```
 
+Row
+-------------------------------------
+### Tube System Map including Overground, DLR and Crossrail
+
+```{r, fig.width=10, fig.height=7}
 tm_shape(zones)+
   tm_polygons(col="name", alpha=.2, legend.show=FALSE)+
   tm_shape(lines) +
