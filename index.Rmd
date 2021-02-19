@@ -56,7 +56,7 @@ tm_shape(Zones)+
   tm_shape(Lines) +
   tm_lines(col="Line", scale=3, palette = colors) +
   tm_shape(Stations) +
-  tm_dots() 
+  tm_dots(scale=1.5) 
 ```
 
 Train Network Analysis
