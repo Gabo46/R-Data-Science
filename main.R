@@ -15,10 +15,10 @@ library(geosphere)
 
 tmap_mode("view")
 
-stations = st_read("data/tfl_stations_new.json") %>%
+Stations = st_read("data/tfl_stations_new.json") %>%
   rename("Number of Lines" = "Number.of.Lines", "Station ID" = "Station.ID", "Line(s)" = "Lines")
-lines = st_read("data/tfl_lines_new.json")
-zones = st_read("data/tfl_zones.json")
+Lines = st_read("data/tfl_lines_new.json")
+Zones = st_read("data/tfl_zones.json")
 
 colors = c(
   "#B26300", # Bakerloo
@@ -38,11 +38,11 @@ colors = c(
   "#93CEBA" # Waterloo & City
 )
 
-tm_shape(zones)+
+tm_shape(Zones)+
   tm_polygons(col="name", alpha=.2, legend.show=FALSE)+
-  tm_shape(lines) +
+  tm_shape(Lines) +
   tm_lines(col="Line", scale=3, palette = colors) +
-  tm_shape(stations) +
-  tm_dots() 
+  tm_shape(Stations) +
+  tm_dots(scale=1.5) 
 
 
