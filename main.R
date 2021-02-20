@@ -15,34 +15,25 @@ library(geosphere)
 
 tmap_mode("view")
 
-Stations = st_read("data/tfl_stations_new.json") %>%
-  rename("Number of Lines" = "Number.of.Lines", "Station ID" = "Station.ID", "Line(s)" = "Lines")
-Lines = st_read("data/tfl_lines_new.json")
-Zones = st_read("data/tfl_zones.json")
+Stations2 <- st_read("data/tfl_stations_new2.json")
+st_geometry(Stations2) <- NULL
+Lines2 <- st_read("data/tfl_lines_new2.json")
 
-colors = c(
-  "#B26300", # Bakerloo
-  "#DC241F", # Central
-  "#FFD329", # Circle
-  "#9364CC", # Crossrail
-  "#e1eb5b", # Crossrail 2
-  "#007D32", # District
-  "#00AFAD", # DLR
-  "#E0A9BE", # Hammersmith & City
-  "#A1A5A7", # Jubliee
-  "#9B0058", # Metropolitan
-  "#000000", # Northern
-  "#EF7B10", # Overground
-  "#0019A8", # Piccadilly
-  "#0098D8", # Victoria
-  "#93CEBA" # Waterloo & City
-)
+Lines2 <- mutate(Lines2, Length = st_length(Lines2)) %>%
+  inner_join(Stations2, c("start_sid" = "Station.ID")) %>%
+  inner_join(Stations2, c("end_sid" = "Station.ID"))
+view(Lines2)
+st_geometry(Lines2) <- NULL
+Lines2 <- Lines2 %>%
+  group_by(start_sid, end_sid, Line) %>%
+  summarise(Length = sum(Length))
 
-tm_shape(Zones)+
-  tm_polygons(col="name", alpha=.2, legend.show=FALSE)+
-  tm_shape(Lines) +
-  tm_lines(col="Line", scale=3, palette = colors) +
-  tm_shape(Stations) +
-  tm_dots(scale=1.5) 
+view(Lines2)
+
+  group_by(Lines2, Line) %>%
+  summarise("Total length" = sum(Length), "Average length" = mean(Length), stations=n()) %>%
+  view()
+view(Lines2)
+
 
 

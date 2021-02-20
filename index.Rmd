@@ -21,15 +21,15 @@ library(geosphere)
 tmap_mode("view")
 ```
 
-Trains in London
+Trains in London {data-orientation=rows}
 =====================================
 ```{r, include=FALSE}
-Stations = st_read("data/tfl_stations_new.json") %>%
-  rename("Number of Lines" = "Number.of.Lines", "Station ID" = "Station.ID", "Line(s)" = "Lines")
-Lines = st_read("data/tfl_lines_new.json")
-Zones = st_read("data/tfl_zones.json")
+Stations <- st_read("data/tfl_stations_new.json")
+Lines <- st_read("data/tfl_lines_new.json")
+Zones <- st_read("data/tfl_zones.json") %>%
+  rename("Name" = "name")
 
-colors = c(
+colors <- c(
   "#B26300", # Bakerloo
   "#DC241F", # Central
   "#FFD329", # Circle
@@ -46,27 +46,57 @@ colors = c(
   "#0098D8", # Victoria
   "#93CEBA" # Waterloo & City
 )
+
+tube_lines <- c("Bakerloo", "Central", "Circle", "District", "Hammersmith", "Jubilee", "Metropolitan", "Northern", "Piccadilly", "Victoria", "Waterloo")
+
+num_station <- nrow(Stations)
+
+rail_len <- st_length(Lines) %>%
+  sum()
 ```
+Row
+-------------------------------------
+
+### Total number of train stations by 2030s
+
+```{r}
+valueBox(num_station, icon = "fa-subway")
+```
+
+### Total track length
+
+```{r}
+valueBox(sprintf("%d km", round(rail_len / 1000)))
+```
+
+Row
+-------------------------------------
 
 ### Tube System Map including Overground, DLR and Crossrail
-
 ```{r}
+Stations2 <-  Stations %>%
+  rename("Number of Lines" = "Number.of.Lines", "Station ID" = "Station.ID", "Line(s)" = "Lines")
 tm_shape(Zones)+
-  tm_polygons(col="name", alpha=.2, legend.show=FALSE)+
+  tm_polygons(col="Name", alpha=.2, legend.show=FALSE)+
   tm_shape(Lines) +
   tm_lines(col="Line", scale=3, palette = colors) +
-  tm_shape(Stations) +
-  tm_dots(scale=1.5) 
+  tm_shape(Stations2) +
+  tm_dots(scale=1.5)
 ```
 
-Train Network Analysis
+National Rail
 ===============
 
-### Total number of Tube stations including DLR
+```{r, include=FALSE}
+nr_stations <- st_read("data/nr_stations.json")
+nr_lines <- st_read("data/nr_lines.json")
+```
 
 ```{r}
-#number <- nrow(nodes)
-#valueBox(number, icon = "fa-subway")
+tm_shape(nr_lines) +
+  tm_lines() +
+  tm_shape(nr_stations) +
+  tm_dots()
 ```
 
 Underpasses
