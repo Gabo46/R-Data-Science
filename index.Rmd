@@ -269,6 +269,7 @@ Row
 -----------------------------------------------------------------------
 
 ### From
+
 ```{r}
 renderValueBox({
 
@@ -281,7 +282,9 @@ valueBox(start_point$name[1],
 })
 
 ```
+
 ### To
+
 ```{r}
 renderValueBox({
   
@@ -296,7 +299,9 @@ valueBox(end_point$name[index],
 })
 
 ```
+
 ### Number of stops
+
 ```{r}
 renderValueBox({
  
@@ -311,6 +316,7 @@ valueBox(number_stops,
 ```
 
 ### Distance
+
 ```{r}
 renderValueBox({
  
@@ -332,6 +338,7 @@ valueBox(paste(distance, "km"),
 ```
 
 ### Time
+
 ```{r}
 renderValueBox({
  
