@@ -19,7 +19,7 @@ with open('data/tfl_stations.json', 'r') as json_file:
         }
         new_lines = []
         for line in station['properties']['lines']:
-            if line['name'] in lines:
+            if line['name'] in lines and 'nightopened' in line:
                 line_name = line['name']
                 if line_name in lines[:11]:
                     line_name += " Line"
@@ -33,7 +33,7 @@ with open('data/tfl_stations.json', 'r') as json_file:
         if len(new_lines) > 0:
             new_stations.append(new_station)
 
-with open('data/tfl_stations_new2.json', 'w') as out:
+with open('data/tfl_stations_night.json', 'w') as out:
     out_json = {
         "type": "FeatureCollection",
         "crs": {"type": "name", "properties": {"name": "urn:ogc:def:crs:OGC:1.3:CRS84"}},
@@ -60,11 +60,12 @@ with open('data/tfl_lines.json', 'r') as json_file:
                     line_name = "Docklands Light Railway"
                 if line_name == "London Overground":
                     line_name = "Overground"
-                new_lines.append({
-                    'Line': line_name,
-                    'start_sid': l['start_sid'] if ('start_sid' in l) else None,
-                    'end_sid': l['end_sid'] if ('end_sid' in l) else None
-                })
+                if 'nightopened' in l:
+                    new_lines.append({
+                        'Line': line_name,
+                        'start_sid': l['start_sid'] if ('start_sid' in l) else None,
+                        'end_sid': l['end_sid'] if ('end_sid' in l) else None
+                    })
         for element in new_lines:
             new_element = {
                 'type': 'Feature',
@@ -75,7 +76,7 @@ with open('data/tfl_lines.json', 'r') as json_file:
             }
             new_connections.append(new_element)
 
-with open('data/tfl_lines_new2.json', 'w') as out:
+with open('data/tfl_lines_night.json', 'w') as out:
     out_json = {
         "type": "FeatureCollection",
         "features": new_connections
