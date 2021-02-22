@@ -1,5 +1,5 @@
 ---
-title: "TfL Bus Routes"
+title: "Data Science Dashboard"
 output: 
   flexdashboard::flex_dashboard:
     orientation: columns
@@ -10,6 +10,8 @@ runtime: shiny
 ```{r setup, include=FALSE}
 library(flexdashboard)
 library(tidyverse)
+library(ggplot2)
+library(forcats)
 library(httr)
 library(jsonlite)
 library(purrr)
@@ -19,6 +21,7 @@ library(sf)
 library(sfnetworks)
 library(tidygraph)
 library(tmap)
+library(plotly)
 
 data_day <- read.csv("data/all_bus_lines.csv") %>%
   mutate(switch = "day") %>%
@@ -148,7 +151,7 @@ distance <- data_dist %>%
   st_cast("LINESTRING") %>%
   st_length()
 
-avg_speed <- (data_dist$Average_Speed[1] / 1.609)
+avg_speed <- (data_dist$Average_Speed[1] * 1.609)
 
 time <- (((as.numeric(distance)/1000)*60)/(avg_speed)) %>%
   round(digits = 0)
@@ -160,10 +163,12 @@ valueBox(paste(time, "min"),
 
 ```
 
+### Data provided by Transport for London: https://tfl.gov.uk/
+
 Column {data-width=650}
 -----------------------------------------------------------------------
 
-### Route
+### Route mapped for selected line
 
 ```{r}
 
@@ -173,7 +178,8 @@ bus_line <- reactive({
   data %>%
   filter(lineId == input$lineId) %>%
   filter(!is.na(Location_Easting)) %>%  
-  st_as_sf(coords = c("Location_Easting", "Location_Northing"), crs = 27700)
+  st_as_sf(coords = c("Location_Easting", "Location_Northing"), crs = 27700) %>%
+  select(lineId, id, name, lat, lon, Heading)  
 
  })
 
@@ -188,15 +194,18 @@ net <- bus_line() %>%
   as_sfnetwork(directed = TRUE)  
   
 # now lets add points
-tm_shape(st_as_sf(net, "edges")) + tm_lines(id = c("Line" = "lineId"),
-                                            scale = 2) +
-  tm_shape(bus_line()) + tm_dots(col = "#dc241f",
-                                 size = 0.04, 
-                                 id = "name") + 
-                                 #popup.vars = c("Line:" = "lineId"))
-    tm_shape(st_as_sf(net, "nodes")) + tm_dots(col = "#0019a8", 
-                                               size = 0.1,
-                                               id = "name")
+tm_shape(st_as_sf(net, "edges")) + 
+  tm_lines(id = c("Line" = "lineId"), 
+           scale = 2) +
+  tm_shape(st_as_sf(net, "nodes")) + 
+    tm_dots(col = "#0019a8", 
+            size = 0.2,
+            id = "name") +
+    tm_shape(bus_line()) + 
+      tm_dots(col = "#dc241f",
+              size = 0.04, 
+              id = "name")  
+ 
 })
 
 ```
@@ -210,6 +219,8 @@ Column {data-width=650}
 ### The day network is clearly more dense
 
 ```{r}
+#edges_day <- read.csv("data/edges_day_start_end.csv") %>%
+ # st_set_geometry(NULL)
 
 net_day <- data_day %>%
   group_by(lineId) %>%
@@ -219,8 +230,21 @@ net_day <- data_day %>%
   st_cast("LINESTRING") %>%
   mutate(length = as.numeric(st_length(geometry)))
 
+
 tm_shape(net_day) + 
   tm_lines()
+
+```
+
+### TfL Bus lines serving London during daytime
+
+```{r}
+
+lines_serving_day <- nrow(net_day)
+
+valueBox(lines_serving_day,
+         icon = "fa-bus-alt",
+         color = "red")
 
 ```
 
@@ -228,14 +252,28 @@ tm_shape(net_day) +
 
 ```{r}
 
-
 avg_length_day <- mean(net_day[["length"]]) / 1000
  
+avg_stops_day <- data_day %>%
+  group_by(lineId) %>%
+  count(lineId) %>%
+  ungroup() %>%
+  summarise(Average_Stops = sum(n)/nrow(.)) %>%
+  round(0)
 
-valueBox(paste(avg_length_day %>% round(2), "km"),
-          icon = "fa-road")
+valueBox(paste(avg_length_day %>% round(2), "km", "with", avg_stops_day, "stops on average"),
+         icon = "fa-road")
 
+```
 
+### Average speed
+
+```{r}
+
+avg_speed_day <- mean(data_day[["Average_Speed"]])*1.609
+ 
+valueBox(paste(avg_speed_day %>% round(2), "km/h"),
+         icon = "fa-tachometer-alt")
 
 ```
 
@@ -257,24 +295,51 @@ net_night <- data_night %>%
 tm_shape(net_night) + 
   tm_lines()
 
-
 ```
 
-### Average length
+### TfL Bus lines serving London at night
 
 ```{r}
 
+lines_serving_night <- nrow(net_night)
 
-avg_length_night <- mean(net_night[["length"]]) / 1000
- 
-
-valueBox(paste(avg_length_night %>% round(2), "km"),
-          icon = "fa-road")
-
-
+valueBox(lines_serving_night,
+         icon = "fa-bus-alt",
+         color = "red")
 
 ```
 
+### Average length 
+
+```{r}
+
+avg_length_night <- mean(net_night[["length"]]) / 1000
+
+avg_stops_night <- data_night %>%
+  group_by(lineId) %>%
+  count(lineId) %>%
+  ungroup() %>%
+  summarise(Average_Stops = sum(n)/nrow(.)) %>%
+  round(0)
+
+valueBox(paste(avg_length_night %>% round(2), "km", "with", avg_stops_night, "stops on average"),
+         #subtitle = "Average number of stops",
+         icon = "fa-road")
+  
+# stops_gauge <- 
+
+```
+
+### Average speed
+
+```{r}
+
+avg_speed_night <- mean(data_night[["Average_Speed"]])*1.609
+ 
+valueBox(paste(avg_speed_night %>% round(2), "km/h"),
+         icon = "fa-tachometer-alt")
+
+```
 
 Network Analysis - Nightbuses
 ===================================== 
@@ -282,7 +347,7 @@ Network Analysis - Nightbuses
 Column {data-width=650}
 -----------------------------------------------------------------------
 
-### Betweenness centrality
+### Visualization of shortest paths through nodes
 
 ```{r}
 
@@ -295,6 +360,7 @@ bus_lines_mp <- read.csv("data/all_bus_lines_night.csv") %>%
   mutate(Location_Northing = mean(Location_Northing))
 
 # simplified bus stops
+
 stop_mp <- bus_lines_mp %>%
   select(parentId, stationId, name, Location_Easting, Location_Northing) %>%
   unique()
@@ -302,25 +368,17 @@ stop_mp <- bus_lines_mp %>%
 # CREATE EDGE AND NODES FOR NETWORK DATA
 # EVERY STATION FROM EVERY LINE GETS CONNECTED SEPERATELY
 
-# first
+# with help of: https://www.r-spatial.org/r/2019/09/26/spatial-networks.html
 
-#network_mp <- left_join(bus_lines_mp, stop_mp, by = "parentId") %>%
-#  select(lineId, parentId, name.y, Location_Easting.y, Location_Northing.y) %>%
-#  rename("Location_Easting" = Location_Easting.y, "Location_Northing" = Location_Northing.y, "name" = name.y) %>%
-#  unique() %>%
-#  ungroup() %>%
-#  st_as_sf(coords = c("Location_Easting", "Location_Northing"), crs = 27700) #%>%
-#  group_by(lineId) %>%
-#  summarise(do_union = FALSE) %>%
-#  st_cast("LINESTRING")
+# all nodes marked as start and end points, so that the data can be filtered by start and end
 
 nodes <- bus_lines_mp %>%
   select(X, lineId,parentId, Location_Easting, Location_Northing, name) %>%
   rename("nodeID" = X) %>%
   mutate(start = "start", end = "end") %>%
   gather(start_end, end, start:end) #%>%
-  #st_as_sf(coords = c("Location_Easting", "Location_Northing"), crs = 27700)# %>%
-  #arrange(lineId) 
+
+# first filter: start, then group per line, second filter: sort out the last stop per group as it can't be a start point
 
 nodes_start <- nodes %>%
   filter(start_end == "start") %>%
@@ -329,6 +387,8 @@ nodes_start <- nodes %>%
   filter(Index_Group != max(n())) %>%
   ungroup()
 
+# first filter: end, then group per line, second filter: sort out first entry per group as it can't be an end point
+
 nodes_end <- nodes %>%
   filter(start_end == "end") %>%
   group_by(lineId) %>% 
@@ -336,6 +396,8 @@ nodes_end <- nodes %>%
   filter(Index_Group != 1) %>%
   ungroup() %>%
   mutate(nodeID = nodeID + 10000)  
+
+# bind the two sets of start nodes and end nodes to create edges between each stop for all lines
     
 edges <- cbind(D1 = nodes_start, D2 = nodes_end) %>%
   rename(c(D1.lineId, D1.Location_Easting, D1.Location_Northing, D2.Location_Easting, D2.Location_Northing),
@@ -355,9 +417,13 @@ edges <- cbind(D1 = nodes_start, D2 = nodes_end) %>%
   group_by(Index) %>%
   summarise(do_union = FALSE) %>%
   st_cast("LINESTRING")
+
+# index edges with an ID
   
 edges <- edges %>%
   mutate(edgeID = c(1:n()))
+
+# actually not quite sure what is done in this part
 
 nodes <- edges %>%
   st_coordinates() %>%
@@ -371,6 +437,8 @@ nodes <- edges %>%
   mutate(nodeID = group_indices(., factor(xy, levels = unique(xy)))) %>%
   select(-xy)
 
+# next three chunks: pull the nodeIDs and create from-to relations within the edges data
+
 source_nodes <- nodes %>%
   filter(start_end == "start") %>%
   pull(nodeID)
@@ -382,13 +450,14 @@ target_nodes <- nodes %>%
 edges = edges %>%
   mutate(from = source_nodes, to = target_nodes)
 
+# delete non-unique entries
+
 nodes <- nodes %>%
   distinct(nodeID, .keep_all = TRUE) %>%
   st_as_sf(coords = c('X', 'Y'), crs = 27700) %>%
   select(nodeID, geometry)
-  #st_set_crs(st_crs(edges))
 
-#network <- tbl_graph(nodes = nodes, edges = as_tibble(edges), directed = FALSE)
+# combine edges and nodes to a complete network data
 
 network <- sfnetwork(nodes, edges, directed = TRUE) %>%
   activate(edges) %>%
@@ -400,13 +469,15 @@ network <- network %>%
   mutate(betweenness = centrality_betweenness(weights = as.numeric(length) + 0.0001)) %>%
   mutate(eigen = centrality_eigen()) %>%
   activate(edges) %>%
-  mutate(betweenness = centrality_edge_betweenness(weights = as.numeric(length) + 0.0001))
+  mutate(betweenness = centrality_edge_betweenness(weights = as.numeric(length) + 0.0001)) # weights = as.numeric(length) + 0.0001
 
 tm_shape(network %>% activate(edges) %>% as_tibble() %>% st_as_sf()) + 
   tm_lines() + 
   tm_shape(network %>% activate(nodes) %>% as_tibble() %>% st_as_sf()) +
-  tm_dots(col = "betweenness", size = "betweenness", palette = "cividis")
-
+  tm_dots(col = "betweenness",
+          alpha = 0.6,
+          size = "betweenness", 
+          palette = "cividis")
 
 ```
 
@@ -414,15 +485,73 @@ tm_shape(network %>% activate(edges) %>% as_tibble() %>% st_as_sf()) +
 Column {data-width=650}
 -----------------------------------------------------------------------
 
-### Betweenness centrality
+### Betweenness centrality of edges and degree of nodes
 
 ```{r}
 
-
 tm_shape(network %>% activate(edges) %>% as_tibble() %>% st_as_sf()) + 
-  tm_lines(col = "betweenness") + 
+  tm_lines() + 
   tm_shape(network %>% activate(nodes) %>% as_tibble() %>% st_as_sf()) +
-  tm_dots(col = "eigen", size = "degree", palette = "cividis")
+  tm_dots(col = "degree",
+          alpha = 0.6,
+          size = "eigen", 
+          palette = "cividis")
 
+```
+
+### Fifteen most linked bus stops 
+
+```{r}
+
+bus_stops_night_simple <- read.csv("data/all_bus_stops_night_simple.csv") %>%
+  filter(!is.na(Location_Easting)) %>%
+  st_as_sf(coords = c("Location_Easting", "Location_Northing"), crs = 27700)
+
+nodes_degree <- network %>%
+  activate(nodes) %>%
+  as_tibble() %>%
+  arrange(desc(degree)) %>%
+  st_join(., bus_stops_night_simple) %>%
+  st_set_geometry(NULL) %>%
+  mutate(name = str_replace_all(name, c("Trafalgar Sq / Charing Cross Stn" = "Trafalgar Square",
+                                        "Trafalgar Square / Charing Cross Stn" = "Trafalgar Square",
+                                        "Northumberland Avenue / Trafalgar Square" = "Trafalgar Square"
+                                        )))
+
+nodes_degree_top <- nodes_degree %>%
+  select(name, degree) %>%
+  unique %>%
+  slice(1:15)
+
+renderPlot({
+  
+  ggplot(nodes_degree_top, aes(x = fct_reorder(name, degree), y = degree)) +
+    geom_col(aes(fill = degree)) +
+    scale_fill_viridis_b(alpha = 0.7) +
+    coord_flip() +
+    xlab("") +
+    ylab("Degree") +
+    theme_minimal()
+  
+})
+
+  #select(nodeID, name, degree, lineId) %>%
+  #group_by(name)
+  #group_by(name)
+#plot
+
+#nodes_degree_plot <- plot_ly(nodes_degree_top, 
+#                             x = ~degree, 
+#                             y = ~reorder(name, degree),
+#                             type = "bar",
+#                             name = "TEST",
+#                             orientation = "h",
+#                             xaxis = list(title = ""))
+
+#nodes_degree_plot <- nodes_degree_plot %>% 
+#  layout(yaxis = list(showgrid = FALSE, showline = FALSE, showticklabels = TRUE, domain= c(0, 0.85)),
+#         xaxis = list(zeroline = FALSE, showline = FALSE, showticklabels = TRUE, showgrid = TRUE))
+
+#nodes_degree_plot
 
 ```
