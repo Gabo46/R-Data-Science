@@ -146,7 +146,52 @@ tm_shape(Zones)+
   tm_dots(scale=1.5)
 ```
 
+Trains: Day and Night Comparison
+===============
 
+
+```{r, include=FALSE}
+Lines2 <- st_read("data/tfl_lines_new2.json") %>%
+  mutate(Length = st_length(geometry)) %>%
+  distinct(Line, Length) %>%
+  group_by(Line) %>%
+  summarise(Distance = sum(Length) / 1000) %>%
+  mutate(Length = sprintf("%.2f", Distance)) %>%
+  mutate(Length = as.numeric(Length))
+
+Lines2_Night <- Lines %>%
+  mutate(Length = st_length(geometry)) %>%
+  distinct(Line, Length) %>%
+  group_by(Line) %>%
+  summarise(Distance = sum(Length) / 1000) %>%
+  mutate(Length = sprintf("%.2f", Distance)) %>%
+  mutate(Length = as.numeric(Length))
+
+view(Lines2_Night)
+```
+
+Row
+-------------------------------------
+### Total rail length of all lines
+```{r}
+ggplot(data = Lines2, aes(Line, Length, fill=Line)) +
+  geom_bar(stat="identity") + 
+  coord_flip() +
+  scale_fill_manual(values=colors) +
+  labs(y = "Rail length in km", x = "Line")
+```
+
+
+Row
+-------------------------------------
+### Total rail length that is operated during the night
+```{r}
+ggplot(data = Lines2_Night, aes(Line, Length, fill=Line)) +
+  geom_bar(stat="identity") + 
+  coord_flip() +
+  scale_fill_manual(values=colors_night) +
+  labs(y = "Rail length in km", x = "Line")
+```
 
 National Rail {data-orientation=rows}
 ===============
